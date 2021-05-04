@@ -1,0 +1,2866 @@
+,ID,Date,Country,Disease,Description,Update
+0,2452,NA,NA,Influenza A(H1N1),NA,Yes
+1,2476,NA,NA,Influenza A(H1N1),NA,Yes
+2,2463,NA,NA,Influenza A(H1N1),NA,Yes
+3,2453,NA,NA,Influenza A(H1N1),NA,Yes
+4,2409,NA,NA,Pandemic (H1N1),NA,Yes
+5,2513,NA,Nigeria,Meningococcal disease,NA,Yes
+6,2489,NA,NA,Influenza A(H1N1),NA,Yes
+7,2473,NA,NA,Influenza A(H1N1),NA,Yes
+8,2408,NA,NA,Dengue,NA,No
+9,2486,NA,NA,Influenza A(H1N1),NA,Yes
+10,2493,NA,NA,Yellow fever,NA,No
+11,2416,NA,NA,Avian,NA,Yes
+12,2434,NA,NA,Influenza A(H1N1),NA,Yes
+13,2534,NA,NA,Yellow fever,NA,No
+14,2441,NA,NA,Influenza A(H1N1),NA,Yes
+15,2427,NA,NA,Pandemic (H1N1),NA,Yes
+16,2496,NA,NA,Swine influenza,NA,Yes
+17,2498,NA,NA,Swine influenza,NA,No
+18,2524,NA,NA,Avian,NA,Yes
+19,2392,NA,NA,Avian,NA,No
+20,2426,NA,NA,Pandemic (H1N1),NA,Yes
+21,2484,NA,NA,Influenza A(H1N1),NA,Yes
+22,2503,NA,NA,Avian,NA,Yes
+23,2439,NA,NA,Influenza A(H1N1),NA,Yes
+24,2460,NA,NA,Influenza A(H1N1),NA,Yes
+25,2466,NA,NA,Avian,NA,Yes
+26,2396,NA,NA,Pandemic (H1N1),NA,Yes
+27,2471,NA,NA,Influenza A(H1N1),NA,Yes
+28,2535,NA,NA,Avian,NA,Yes
+29,2417,NA,NA,Pandemic (H1N1),NA,Yes
+30,2397,NA,NA,Yellow fever,NA,No
+31,2465,NA,NA,Influenza A(H1N1),NA,Yes
+32,2394,NA,NA,Avian,NA,Yes
+33,2488,NA,NA,Influenza A(H1N1),NA,Yes
+34,2458,NA,NA,Influenza A(H1N1),NA,Yes
+35,2521,NA,NA,Ebola,NA,No
+36,2415,NA,NA,Pandemic (H1N1),NA,Yes
+37,2526,NA,NA,Avian,NA,Yes
+38,2440,NA,NA,Influenza A(H1N1),NA,Yes
+39,2411,NA,NA,Pandemic (H1N1),NA,Yes
+40,2456,NA,NA,Influenza A(H1N1),NA,Yes
+41,2537,NA,NA,Avian,NA,No
+42,2424,NA,NA,Avian,NA,Yes
+43,2485,NA,NA,Influenza A(H1N1),NA,Yes
+44,2444,NA,NA,Influenza A(H1N1),NA,Yes
+45,2531,NA,NA,Avian,NA,No
+46,2461,NA,NA,Influenza A(H1N1),NA,Yes
+47,2435,NA,NA,Influenza A(H1N1),NA,Yes
+48,2467,NA,NA,Influenza A(H1N1),NA,Yes
+49,2447,NA,NA,Avian,NA,Yes
+50,2507,NA,NA,Avian,NA,Yes
+51,2414,NA,NA,Yellow fever,NA,No
+52,2475,NA,NA,Influenza A(H1N1),NA,Yes
+53,2500,NA,NA,Meningococcal disease,NA,No
+54,2482,NA,NA,Influenza A(H1N1),NA,Yes
+55,2389,NA,NA,Pandemic (H1N1),NA,Yes
+56,2518,NA,NA,Cholera,NA,Yes
+57,2490,NA,NA,Influenza A(H1N1),NA,Yes
+58,2474,NA,NA,Influenza A(H1N1),NA,Yes
+59,2522,NA,NA,Avian,NA,Yes
+60,2430,NA,NA,Pandemic (H1N1),NA,Yes
+61,2478,NA,NA,Avian,NA,Yes
+62,2514,NA,NA,Avian,NA,Yes
+63,2516,NA,NA,Avian,NA,Yes
+64,2538,NA,Nigeria,Polio,NA,No
+65,2506,NA,NA,Ebola,NA,Yes
+66,2528,NA,NA,Avian,NA,Yes
+67,2462,NA,NA,Influenza A(H1N1),NA,Yes
+68,2477,NA,NA,Influenza A(H1N1),NA,Yes
+69,2501,NA,NA,Avian,NA,Yes
+70,2446,NA,NA,Influenza A(H1N1),NA,Yes
+71,2480,NA,NA,Yellow fever,NA,No
+72,2472,NA,NA,Influenza A(H1N1),NA,Yes
+73,2468,NA,NA,Influenza A(H1N1),NA,Yes
+74,2539,NA,NA,Yellow fever,NA,No
+75,2402,NA,NA,Dengue,NA,Yes
+76,2418,NA,NA,Pandemic (H1N1),NA,Yes
+77,2442,NA,NA,Influenza A(H1N1),NA,Yes
+78,2523,NA,NA,Avian,NA,Yes
+79,2401,NA,NA,Pandemic (H1N1),NA,Yes
+80,2508,NA,NA,Meningitis,NA,No
+81,2515,NA,NA,Polio,NA,No
+82,2421,NA,NA,Pandemic (H1N1),NA,Yes
+83,2433,NA,NA,Influenza A(H1N1),NA,Yes
+84,2393,NA,NA,Pandemic (H1N1),NA,Yes
+85,2536,NA,NA,Avian,NA,No
+86,2499,NA,NA,Influenza,NA,No
+87,2481,NA,NA,Influenza A(H1N1),NA,Yes
+88,2406,NA,NA,Pandemic (H1N1),NA,Yes
+89,2533,NA,NA,Avian,NA,Yes
+90,2495,NA,NA,Swine influenza,NA,Yes
+91,2437,NA,NA,Influenza A(H1N1),NA,Yes
+92,2509,NA,NA,Avian,NA,Yes
+93,2494,NA,NA,Influenza A(H1N1),NA,Yes
+94,2445,NA,NA,Influenza A(H1N1),NA,Yes
+95,2395,NA,NA,Pandemic (H1N1),NA,Yes
+96,2517,NA,NA,Avian,NA,Yes
+97,2512,NA,NA,Avian,NA,Yes
+98,2487,NA,NA,Influenza A(H1N1),NA,Yes
+99,2390,NA,NA,Pandemic (H1N1),NA,Yes
+100,2405,NA,NA,Pandemic (H1N1),NA,Yes
+101,2425,NA,NA,Plague,NA,No
+102,2520,NA,NA,Avian,NA,Yes
+103,2505,NA,NA,Avian,NA,Yes
+104,2438,NA,NA,Influenza A(H1N1),NA,Yes
+105,2412,NA,NA,Pandemic (H1N1),NA,Yes
+106,2502,NA,NA,Avian,NA,Yes
+107,2423,NA,NA,Pandemic (H1N1),NA,Yes
+108,2399,NA,NA,Pandemic (H1N1),NA,Yes
+109,2404,NA,NA,Pandemic (H1N1),NA,Yes
+110,2398,NA,NA,Avian,NA,Yes
+111,2413,NA,NA,Pandemic (H1N1),NA,Yes
+112,2510,NA,NA,Cholera,NA,Yes
+113,2422,NA,NA,Pandemic (H1N1),NA,Yes
+114,2450,NA,NA,Influenza A(H1N1),NA,Yes
+115,2504,NA,NA,Avian,NA,Yes
+116,2527,NA,NA,Cholera,NA,No
+117,2479,NA,NA,Avian,NA,Yes
+118,2530,NA,NA,Avian,NA,Yes
+119,2451,NA,NA,Avian,NA,Yes
+120,2457,NA,NA,Avian,NA,Yes
+121,2525,NA,NA,Ebola,NA,No
+122,2448,NA,NA,Influenza A(H1N1),NA,Yes
+123,2511,NA,NA,Avian,NA,Yes
+124,2492,NA,NA,Influenza A(H1N1),NA,Yes
+125,2529,NA,NA,Avian,NA,Yes
+126,2420,NA,NA,Avian,NA,Yes
+127,2436,NA,NA,Influenza A(H1N1),NA,Yes
+128,2519,NA,Nigeria,Meningococcal disease,NA,No
+129,2443,NA,NA,Cholera,NA,Yes
+130,2469,NA,NA,Influenza A(H1N1),NA,Yes
+131,2470,NA,NA,Influenza A(H1N1),NA,Yes
+132,2410,NA,NA,Pandemic (H1N1),NA,Yes
+133,2532,NA,NA,Avian,NA,Yes
+134,2449,NA,NA,Avian,NA,Yes
+135,2455,NA,NA,Influenza A(H1N1),NA,Yes
+136,2431,NA,NA,Avian,NA,Yes
+137,2428,NA,Nigeria,Polio,NA,No
+138,2454,NA,NA,Influenza A(H1N1),NA,Yes
+139,2400,NA,NA,Avian,NA,Yes
+140,2491,NA,NA,Influenza A(H1N1),NA,Yes
+141,2459,NA,NA,Influenza A(H1N1),NA,Yes
+142,2540,NA,NA,Ebola,NA,Yes
+143,2391,NA,NA,Avian,NA,Yes
+144,2432,NA,NA,Pandemic (H1N1),NA,Yes
+145,2407,NA,NA,Pandemic (H1N1),NA,No
+146,2419,NA,NA,Pandemic (H1N1),NA,Yes
+147,2464,NA,NA,Influenza A(H1N1),NA,Yes
+148,2429,NA,NA,Pandemic (H1N1),NA,Yes
+149,2497,NA,NA,Swine flu,NA,Yes
+150,2403,NA,NA,Pandemic (H1N1),NA,Yes
+151,2483,NA,NA,Influenza A(H1N1),NA,Yes
+152,20,NA,NA,Ebola,NA,Yes
+153,31,NA,NA,Ebola,NA,Yes
+154,19,NA,NA,Ebola,NA,Yes
+155,9,NA,NA,Ebola,NA,Yes
+156,12,NA,NA,Measles,NA,No
+157,3,NA,NA,Ebola,NA,Yes
+158,34,NA,NA,Ebola,NA,Yes
+159,21,NA,NA,MERS-CoV,NA,Yes
+160,15,NA,NA,Dengue,NA,No
+161,11,NA,NA,Ebola,NA,Yes
+162,13,NA,NA,Ebola,NA,Yes
+163,2,NA,NA,Yellow fever,NA,No
+164,1,NA,NA,Ebola,NA,Yes
+165,32,NA,NA,MERS-CoV,NA,Yes
+166,4,NA,NA,MERS-CoV,NA,Yes
+167,28,NA,NA,Novel Coronavirus,NA,No
+168,25,NA,NA,Novel Coronavirus,NA,No
+169,7,NA,NA,Ebola,NA,Yes
+170,24,NA,NA,Novel Coronavirus,NA,No
+171,14,NA,NA,MERS-CoV,NA,Yes
+172,16,NA,NA,Yellow fever,NA,No
+173,17,NA,NA,Ebola,NA,Yes
+174,10,NA,NA,Dengue,NA,No
+175,23,NA,NA,Ebola,NA,Yes
+176,26,NA,NA,Novel Coronavirus,NA,No
+177,18,NA,Nigeria,Lassa fever,NA,No
+178,29,NA,NA,Novel Coronavirus,NA,Yes
+179,30,NA,NA,Measles,NA,No
+180,22,NA,NA,Ebola,NA,Yes
+181,33,NA,NA,NA,NA,No
+182,27,NA,NA,Ebola,NA,Yes
+183,5,NA,NA,Ebola,NA,Yes
+184,6,NA,NA,Ebola,NA,Yes
+185,8,NA,NA,MERS-CoV,NA,No
+186,1007,NA,NA,Meningitis,NA,Yes
+187,1027,NA,NA,NA,NA,No
+188,1033,NA,NA,Ebola,NA,Yes
+189,1010,NA,NA,NA,NA,No
+190,1022,NA,NA,Plague,NA,No
+191,974,NA,NA,Meningitis,NA,No
+192,985,NA,NA,Myocarditis,NA,Yes
+193,968,NA,NA,Cholera,NA,No
+194,1013,NA,NA,Ebola,NA,Yes
+195,987,NA,NA,Dengue,NA,No
+196,960,NA,NA,Plague,NA,Yes
+197,1021,NA,NA,Meningitis,NA,No
+198,998,NA,NA,Lassa fever,NA,Yes
+199,1009,NA,NA,Monkeypox,NA,No
+200,1025,NA,NA,Cholera,NA,No
+201,1011,NA,NA,Yellow fever,NA,No
+202,995,NA,NA,Rabies,NA,No
+203,973,NA,NA,Cholera,NA,No
+204,1023,NA,NA,Meningitis,NA,Yes
+205,1003,NA,NA,Monkeypox,NA,No
+206,989,NA,NA,Myocarditis,NA,No
+207,979,NA,NA,Dengue,NA,No
+208,978,NA,NA,Plague,NA,No
+209,988,NA,NA,Myocarditis,NA,Yes
+210,1005,NA,NA,NA,NA,No
+211,1031,NA,NA,Cholera,NA,No
+212,1029,NA,NA,Cholera,NA,Yes
+213,983,NA,NA,Myocarditis,NA,Yes
+214,1002,NA,NA,Cholera,NA,No
+215,1006,NA,NA,Meningitis,NA,No
+216,1001,NA,NA,Cholera,NA,No
+217,977,NA,NA,Yellow fever,NA,No
+218,972,NA,NA,Hantavirus pulmonary syndrome,NA,No
+219,1016,NA,NA,Meningococcal disease,NA,No
+220,1026,NA,NA,Ebola,NA,Yes
+221,991,NA,NA,Cholera,NA,No
+222,969,NA,NA,Leptospirosis,NA,No
+223,961,NA,NA,Cholera,NA,No
+224,996,NA,NA,Cholera,NA,No
+225,1030,NA,NA,Ebola,NA,Yes
+226,990,NA,NA,Anthrax,NA,No
+227,994,NA,NA,Cholera,NA,Yes
+228,958,NA,NA,Cholera,NA,Yes
+229,1017,NA,NA,Influenza,NA,No
+230,992,NA,NA,Lassa fever,NA,Yes
+231,1019,NA,NA,Plague,NA,No
+232,963,NA,NA,Cholera,NA,Yes
+233,959,NA,NA,Cholera,NA,Yes
+234,1020,NA,NA,Meningitis,NA,Yes
+235,1008,NA,NA,Lassa fever,NA,No
+236,986,NA,NA,NA,NA,No
+237,993,NA,NA,NA,NA,No
+238,1034,NA,NA,Ebola,NA,Yes
+239,982,NA,NA,Meningitis,NA,No
+240,1018,NA,NA,Ebola,NA,Yes
+241,984,NA,NA,Myocarditis,NA,Yes
+242,975,NA,NA,Cholera,NA,No
+243,967,NA,NA,Cholera,NA,Yes
+244,997,NA,NA,NA,NA,No
+245,970,NA,NA,Encephalitis,NA,Yes
+246,1032,NA,NA,Ebola,NA,Yes
+247,976,NA,NA,Encephalitis,NA,No
+248,1004,NA,NA,Meningitis,NA,No
+249,1000,NA,NA,Monkeypox,NA,No
+250,1012,NA,NA,Meningitis,NA,No
+251,1028,NA,NA,Measles,NA,No
+252,981,NA,NA,Cholera,NA,No
+253,980,NA,NA,Monkeypox,NA,No
+254,1024,NA,NA,Meningitis,NA,No
+255,966,NA,NA,Plague,NA,No
+256,965,NA,NA,Lassa fever,NA,No
+257,962,NA,NA,Cholera,NA,Yes
+258,1014,NA,NA,Dengue,NA,No
+259,964,NA,NA,Monkeypox,NA,Yes
+260,999,NA,NA,NA,NA,No
+261,971,NA,NA,NA,NA,No
+262,1015,NA,NA,Typhoid fever,NA,No
+263,50,NA,NA,Dengue,NA,No
+264,40,NA,NA,Novel Coronavirus,NA,Yes
+265,113,NA,NA,Avian,NA,Yes
+266,93,NA,NA,Avian,NA,Yes
+267,100,NA,NA,Avian,NA,Yes
+268,35,NA,NA,Yellow fever,NA,No
+269,51,NA,NA,Novel Coronavirus,NA,Yes
+270,106,NA,NA,Avian,NA,Yes
+271,44,NA,NA,Yellow fever,NA,No
+272,101,NA,NA,Avian,NA,No
+273,96,NA,NA,Avian,NA,Yes
+274,103,NA,NA,Avian,NA,Yes
+275,90,NA,NA,Avian,NA,Yes
+276,43,NA,NA,Ebola,NA,No
+277,71,NA,NA,Ebola,NA,Yes
+278,83,NA,NA,NA,NA,Yes
+279,60,NA,NA,Cholera,NA,Yes
+280,68,NA,NA,Ebola,NA,Yes
+281,42,NA,NA,Yellow fever,NA,Yes
+282,66,NA,NA,Hantavirus pulmonary syndrome,NA,No
+283,97,NA,NA,Avian,NA,Yes
+284,74,NA,NA,Ebola,NA,Yes
+285,116,NA,NA,Avian,NA,No
+286,57,NA,NA,Ebola,NA,Yes
+287,63,NA,NA,Hantavirus pulmonary syndrome,NA,Yes
+288,75,NA,NA,Avian,NA,Yes
+289,45,NA,NA,Rift Valley fever,NA,No
+290,69,NA,NA,Cholera,NA,Yes
+291,59,NA,NA,Novel Coronavirus,NA,No
+292,115,NA,NA,NA,NA,No
+293,95,NA,NA,Meningitis,NA,No
+294,110,NA,NA,Avian,NA,Yes
+295,91,NA,NA,Avian,NA,Yes
+296,99,NA,NA,Avian,NA,Yes
+297,55,NA,NA,Novel Coronavirus,NA,Yes
+298,53,NA,NA,Cholera,NA,Yes
+299,49,NA,NA,Marburg haemorrhagic fever,NA,No
+300,109,NA,NA,Yellow fever,NA,No
+301,104,NA,NA,Avian,NA,Yes
+302,119,NA,NA,Avian,NA,No
+303,64,NA,NA,Cholera,NA,Yes
+304,47,NA,NA,Ebola,NA,Yes
+305,70,NA,NA,Cholera,NA,No
+306,56,NA,NA,Novel Coronavirus,NA,Yes
+307,39,NA,NA,Ebola,NA,No
+308,37,NA,NA,Ebola,NA,Yes
+309,41,NA,NA,Marburg haemorrhagic fever,NA,Yes
+310,77,NA,NA,Ebola,NA,Yes
+311,107,NA,NA,Avian,NA,Yes
+312,87,NA,NA,Avian,NA,Yes
+313,48,NA,NA,Marburg haemorrhagic fever,NA,Yes
+314,94,NA,NA,Avian,NA,Yes
+315,54,NA,NA,Ebola,NA,No
+316,85,NA,NA,Avian,NA,Yes
+317,81,NA,NA,NA,NA,Yes
+318,111,NA,NA,Avian,NA,No
+319,117,NA,NA,Avian,NA,No
+320,62,NA,NA,Ebola,NA,Yes
+321,61,NA,NA,Ebola,NA,Yes
+322,73,NA,NA,Ebola,NA,Yes
+323,67,NA,NA,Ebola,NA,Yes
+324,52,NA,NA,Ebola,NA,Yes
+325,58,NA,NA,Novel Coronavirus,NA,Yes
+326,105,NA,NA,Avian,NA,Yes
+327,88,NA,NA,Meningitis,NA,No
+328,89,NA,NA,Avian,NA,Yes
+329,72,NA,NA,Ebola,NA,No
+330,112,NA,NA,Avian,NA,Yes
+331,82,NA,NA,Avian,NA,Yes
+332,38,NA,NA,Novel Coronavirus,NA,Yes
+333,65,NA,NA,Ebola,NA,Yes
+334,98,NA,NA,Avian,NA,Yes
+335,46,NA,NA,Marburg haemorrhagic fever,NA,Yes
+336,36,NA,NA,Yellow fever,NA,Yes
+337,86,NA,NA,Avian,NA,Yes
+338,84,NA,NA,NA,NA,No
+339,108,NA,NA,Yellow fever,NA,No
+340,114,NA,NA,Avian,NA,Yes
+341,78,NA,NA,Ebola,NA,No
+342,80,NA,NA,NA,NA,No
+343,102,NA,NA,Avian,NA,Yes
+344,118,NA,NA,Avian,NA,No
+345,76,NA,NA,Ebola,NA,Yes
+346,92,NA,Nigeria,Lassa fever,NA,No
+347,79,NA,NA,Cholera,NA,No
+348,143,NA,NA,Ebola,NA,Yes
+349,162,NA,NA,Ebola,NA,Yes
+350,230,NA,NA,NA,NA,No
+351,122,NA,NA,Yellow fever,NA,No
+352,163,NA,NA,Ebola,NA,Yes
+353,164,NA,NA,Cholera,NA,Yes
+354,190,NA,NA,Measles,NA,No
+355,196,NA,NA,Anthrax,NA,No
+356,177,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+357,200,NA,Nigeria,Yellow fever,NA,No
+358,237,NA,NA,Meningococcal disease,NA,No
+359,179,NA,NA,Leptospirosis,NA,No
+360,204,NA,NA,Cholera,NA,No
+361,193,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+362,168,NA,NA,Cholera,NA,Yes
+363,197,NA,NA,NA,NA,No
+364,138,NA,NA,Ebola,NA,Yes
+365,236,NA,NA,Lassa fever,NA,No
+366,144,NA,NA,Ebola,NA,Yes
+367,210,NA,NA,Meningococcal disease,NA,No
+368,234,NA,NA,Polio,NA,No
+369,132,NA,NA,Cholera,NA,Yes
+370,166,NA,NA,Rift Valley fever,NA,Yes
+371,170,NA,NA,Ebola,NA,Yes
+372,158,NA,NA,Ebola,NA,Yes
+373,216,NA,NA,Meningococcal disease,NA,No
+374,195,NA,NA,Cholera,NA,No
+375,142,NA,NA,Ebola,NA,Yes
+376,173,NA,NA,Rift Valley fever,NA,Yes
+377,217,NA,NA,Cholera,NA,Yes
+378,223,NA,NA,NA,NA,No
+379,228,NA,NA,NA,NA,No
+380,127,NA,NA,Ebola,NA,Yes
+381,183,NA,NA,Cholera,NA,No
+382,165,NA,NA,Ebola,NA,Yes
+383,125,NA,NA,Ebola,NA,Yes
+384,141,NA,NA,NA,NA,Yes
+385,169,NA,NA,Ebola,NA,Yes
+386,133,NA,NA,Ebola,NA,Yes
+387,159,NA,NA,Rift Valley fever,NA,Yes
+388,123,NA,NA,Ebola,NA,Yes
+389,220,NA,NA,Cholera,NA,Yes
+390,153,NA,NA,Ebola,NA,Yes
+391,233,NA,NA,Lassa fever,NA,Yes
+392,137,NA,NA,Ebola,NA,Yes
+393,140,NA,NA,Ebola,NA,Yes
+394,161,NA,NA,Ebola,NA,Yes
+395,214,NA,NA,Viral haemorrhagic fever,NA,Yes
+396,129,NA,NA,Cholera,NA,Yes
+397,156,NA,NA,Ebola,NA,Yes
+398,202,NA,NA,NA,NA,No
+399,172,NA,NA,Cholera,NA,No
+400,225,NA,NA,Meningitis,NA,No
+401,182,NA,NA,NA,NA,No
+402,232,NA,NA,Yellow fever,NA,Yes
+403,180,NA,NA,Leptospirosis,NA,No
+404,209,NA,NA,Meningococcal disease,NA,Yes
+405,150,NA,NA,Ebola,NA,Yes
+406,191,NA,NA,Lassa fever,NA,Yes
+407,194,NA,NA,Staphylococcal food intoxication,NA,No
+408,211,NA,NA,Meningococcal disease,NA,Yes
+409,131,NA,NA,Cholera,NA,No
+410,128,NA,NA,Ebola,NA,Yes
+411,136,NA,NA,Ebola,NA,Yes
+412,154,NA,NA,Cholera,NA,Yes
+413,218,NA,NA,Lassa fever,NA,No
+414,235,NA,NA,Yellow fever,NA,No
+415,185,NA,NA,Cholera,NA,Yes
+416,147,NA,NA,Ebola,NA,Yes
+417,120,NA,NA,Cholera,NA,Yes
+418,146,NA,NA,Ebola,NA,Yes
+419,205,NA,NA,Tularemia,NA,Yes
+420,134,NA,NA,Ebola,NA,Yes
+421,176,NA,NA,Rift Valley fever,NA,Yes
+422,155,NA,NA,Ebola,NA,Yes
+423,215,NA,NA,NA,NA,Yes
+424,186,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+425,181,NA,NA,Rift Valley fever,NA,No
+426,221,NA,NA,Viral haemorrhagic fever,NA,Yes
+427,126,NA,NA,Cholera,NA,Yes
+428,189,NA,NA,Meningococcal disease,NA,No
+429,124,NA,NA,Cholera,NA,Yes
+430,187,NA,NA,Meningococcal disease,NA,No
+431,151,NA,NA,Ebola,NA,Yes
+432,184,NA,NA,Yellow fever,NA,Yes
+433,219,NA,NA,Lassa fever,NA,No
+434,208,NA,NA,Tularemia,NA,No
+435,121,NA,NA,Ebola,NA,Yes
+436,206,NA,NA,Meningococcal disease,NA,Yes
+437,199,NA,NA,NA,NA,No
+438,203,NA,NA,Meningococcal disease,NA,No
+439,198,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+440,227,NA,NA,NA,NA,No
+441,157,NA,NA,Rift Valley fever,NA,Yes
+442,213,NA,NA,Lassa fever,NA,No
+443,178,NA,NA,West Nile,NA,No
+444,145,NA,NA,Cholera,NA,Yes
+445,175,NA,NA,Rift Valley fever,NA,Yes
+446,188,NA,NA,Yellow fever,NA,No
+447,139,NA,NA,Cholera,NA,Yes
+448,226,NA,NA,Viral haemorrhagic fever,NA,Yes
+449,222,NA,NA,Hantavirus pulmonary syndrome,NA,No
+450,192,NA,NA,Lassa fever,NA,No
+451,212,NA,NA,Meningococcal disease,NA,No
+452,135,NA,NA,Ebola,NA,Yes
+453,160,NA,NA,Ebola,NA,Yes
+454,148,NA,NA,Ebola,NA,Yes
+455,207,NA,NA,Meningococcal disease,NA,No
+456,174,NA,NA,Rift Valley fever,NA,Yes
+457,130,NA,NA,Ebola,NA,Yes
+458,231,NA,NA,Yellow fever,NA,Yes
+459,201,NA,NA,NA,NA,Yes
+460,149,NA,NA,Ebola,NA,Yes
+461,229,NA,NA,Cholera,NA,No
+462,171,NA,NA,Ebola,NA,No
+463,167,NA,NA,Ebola,NA,Yes
+464,152,NA,NA,Ebola,NA,Yes
+465,224,NA,NA,Yellow fever,NA,No
+466,1970,NA,NA,Avian,NA,Yes
+467,1912,NA,NA,MERS-CoV,NA,Yes
+468,1880,NA,NA,MERS-CoV,NA,Yes
+469,1905,NA,NA,MERS-CoV,NA,Yes
+470,1872,NA,NA,MERS-CoV,NA,Yes
+471,1944,NA,NA,Avian,NA,Yes
+472,2004,NA,NA,Avian,NA,Yes
+473,1805,NA,NA,Avian,NA,No
+474,1960,NA,NA,Avian,NA,Yes
+475,1956,NA,NA,Avian,NA,Yes
+476,1802,NA,NA,Avian,NA,No
+477,1898,NA,NA,MERS-CoV,NA,Yes
+478,1958,NA,NA,Polio,NA,Yes
+479,1824,NA,NA,Ebola,NA,No
+480,2001,NA,NA,Avian,NA,Yes
+481,1888,NA,NA,MERS-CoV,NA,Yes
+482,1834,NA,NA,Ebola,NA,Yes
+483,1855,NA,NA,Ebola,NA,Yes
+484,1924,NA,NA,MERS-CoV,NA,Yes
+485,1911,NA,NA,Yellow fever,NA,No
+486,1890,NA,NA,MERS-CoV,NA,Yes
+487,1825,NA,NA,MERS-CoV,NA,No
+488,1899,NA,NA,MERS-CoV,NA,Yes
+489,1814,NA,NA,NA,NA,No
+490,1843,NA,NA,Ebola,NA,Yes
+491,1952,NA,NA,MERS-CoV,NA,Yes
+492,1896,NA,NA,Ebola,NA,Yes
+493,1803,NA,NA,Avian,NA,No
+494,1868,NA,NA,Polio,NA,No
+495,1946,NA,NA,Ebola,NA,Yes
+496,1910,NA,NA,MERS-CoV,NA,Yes
+497,1992,NA,NA,Avian,NA,Yes
+498,1819,NA,NA,Avian,NA,No
+499,1875,NA,NA,MERS-CoV,NA,Yes
+500,1844,NA,NA,Ebola,NA,Yes
+501,1835,NA,NA,Ebola,NA,No
+502,2002,NA,NA,Avian,NA,Yes
+503,1837,NA,NA,Ebola,NA,Yes
+504,1927,NA,NA,Ebola,NA,Yes
+505,1883,NA,NA,Ebola,NA,Yes
+506,1856,NA,NA,Ebola,NA,Yes
+507,1984,NA,NA,Avian,NA,Yes
+508,1871,NA,NA,Ebola,NA,Yes
+509,1892,NA,NA,Avian,NA,Yes
+510,1887,NA,NA,MERS-CoV,NA,Yes
+511,1937,NA,NA,Ebola,NA,Yes
+512,1833,NA,NA,Ebola,NA,Yes
+513,1881,NA,NA,Ebola,NA,Yes
+514,1963,NA,NA,Avian,NA,Yes
+515,1998,NA,NA,Avian,NA,Yes
+516,1929,NA,NA,MERS-CoV,NA,Yes
+517,1974,NA,NA,Avian,NA,Yes
+518,1885,NA,NA,Avian,NA,Yes
+519,1950,NA,NA,Ebola,NA,No
+520,1818,NA,NA,MERS-CoV,NA,No
+521,1994,NA,NA,Avian,NA,Yes
+522,1873,NA,NA,MERS-CoV,NA,Yes
+523,1848,NA,NA,MERS-CoV,NA,Yes
+524,1943,NA,NA,MERS-CoV,NA,Yes
+525,1853,NA,NA,MERS-CoV,NA,Yes
+526,1989,NA,NA,Avian,NA,Yes
+527,1930,NA,NA,Avian,NA,Yes
+528,1822,NA,NA,MERS-CoV,NA,No
+529,1976,NA,NA,Avian,NA,Yes
+530,1945,NA,NA,MERS-CoV,NA,Yes
+531,1806,NA,NA,MERS-CoV,NA,No
+532,1809,NA,NA,Plague,NA,No
+533,1865,NA,NA,Polio,NA,Yes
+534,1966,NA,NA,Avian,NA,Yes
+535,1876,NA,NA,Ebola,NA,Yes
+536,1926,NA,NA,MERS-CoV,NA,Yes
+537,1996,NA,NA,Avian,NA,Yes
+538,1807,NA,NA,West Nile,NA,No
+539,1961,NA,NA,Avian,NA,Yes
+540,1801,NA,NA,Ebola,NA,No
+541,1903,NA,NA,Ebola,NA,Yes
+542,1993,NA,NA,Avian,NA,Yes
+543,1951,NA,NA,Polio,NA,Yes
+544,1931,NA,NA,Avian,NA,Yes
+545,1957,NA,NA,MERS-CoV,NA,Yes
+546,1954,NA,NA,Avian,NA,Yes
+547,1812,NA,NA,Polio,NA,No
+548,1830,NA,NA,Polio,NA,Yes
+549,1981,NA,NA,MERS-CoV,NA,Yes
+550,1860,NA,NA,Ebola,NA,Yes
+551,1973,NA,NA,Avian,NA,Yes
+552,1978,NA,NA,Avian,NA,Yes
+553,1821,NA,NA,Chikungunya,NA,No
+554,1874,NA,NA,MERS-CoV,NA,Yes
+555,1808,NA,NA,MERS-CoV,NA,No
+556,2000,NA,NA,Avian,NA,Yes
+557,1820,NA,NA,MERS-CoV,NA,No
+558,1995,NA,NA,Avian,NA,Yes
+559,1810,NA,NA,MERS-CoV,NA,No
+560,1990,NA,NA,Avian,NA,Yes
+561,1932,NA,NA,Ebola,NA,Yes
+562,1836,NA,NA,Ebola,NA,Yes
+563,1900,NA,NA,Ebola,NA,Yes
+564,1857,NA,NA,MERS-CoV,NA,Yes
+565,1827,NA,NA,Ebola,NA,No
+566,1939,NA,NA,Ebola,NA,No
+567,1831,NA,NA,Avian,NA,Yes
+568,1979,NA,NA,Avian,NA,Yes
+569,1839,NA,NA,Ebola,NA,Yes
+570,1906,NA,NA,Ebola,NA,Yes
+571,1842,NA,NA,Ebola,NA,Yes
+572,1907,NA,NA,MERS-CoV,NA,Yes
+573,1829,NA,NA,Ebola,NA,No
+574,2006,NA,NA,MERS-CoV,NA,Yes
+575,1913,NA,NA,Ebola,NA,Yes
+576,1972,NA,NA,Avian,NA,Yes
+577,1815,NA,NA,MERS-CoV,NA,No
+578,1852,NA,NA,Ebola,NA,Yes
+579,1878,NA,NA,Ebola,NA,Yes
+580,1884,NA,NA,MERS-CoV,NA,Yes
+581,1940,NA,NA,Ebola,NA,Yes
+582,1923,NA,NA,Avian,NA,Yes
+583,1968,NA,NA,Avian,NA,Yes
+584,1846,NA,NA,Ebola,NA,Yes
+585,1891,NA,NA,MERS-CoV,NA,Yes
+586,1904,NA,NA,Avian,NA,Yes
+587,1953,NA,NA,Avian,NA,Yes
+588,1909,NA,NA,Avian,NA,Yes
+589,1985,NA,NA,Avian,NA,Yes
+590,1947,NA,NA,MERS-CoV,NA,Yes
+591,1921,NA,NA,Avian,NA,Yes
+592,1886,NA,NA,Ebola,NA,Yes
+593,1999,NA,NA,Avian,NA,Yes
+594,1962,NA,NA,MERS-CoV,NA,Yes
+595,1982,NA,NA,Avian,NA,Yes
+596,1851,NA,NA,Ebola,NA,Yes
+597,1975,NA,NA,Avian,NA,Yes
+598,1850,NA,NA,Polio,NA,Yes
+599,1987,NA,NA,Avian,NA,Yes
+600,1920,NA,NA,MERS-CoV,NA,Yes
+601,1938,NA,NA,Ebola,NA,Yes
+602,1983,NA,NA,Avian,NA,Yes
+603,1914,NA,NA,MERS-CoV,NA,Yes
+604,1942,NA,NA,Ebola,NA,Yes
+605,1804,NA,NA,MERS-CoV,NA,No
+606,1870,NA,NA,Avian,NA,Yes
+607,1977,NA,NA,MERS-CoV,NA,Yes
+608,1936,NA,NA,Avian,NA,Yes
+609,1826,NA,NA,MERS-CoV,NA,No
+610,1854,NA,NA,MERS-CoV,NA,Yes
+611,1877,NA,NA,Avian,NA,Yes
+612,1967,NA,NA,MERS-CoV,NA,Yes
+613,1882,NA,NA,Cholera,NA,No
+614,1845,NA,NA,Ebola,NA,Yes
+615,1969,NA,NA,Avian,NA,Yes
+616,1959,NA,NA,MERS-CoV,NA,Yes
+617,1897,NA,NA,Ebola,NA,Yes
+618,1928,NA,NA,Avian,NA,Yes
+619,1991,NA,NA,Avian,NA,Yes
+620,1816,NA,NA,MERS-CoV,NA,No
+621,2005,NA,NA,Avian,NA,Yes
+622,2003,NA,NA,MERS-CoV,NA,Yes
+623,1840,NA,NA,Ebola,NA,Yes
+624,1864,NA,NA,MERS-CoV,NA,Yes
+625,1817,NA,NA,Ebola,NA,No
+626,1918,NA,NA,MERS-CoV,NA,Yes
+627,1861,NA,NA,Avian,NA,Yes
+628,1893,NA,NA,Ebola,NA,Yes
+629,1901,NA,NA,MERS-CoV,NA,Yes
+630,1849,NA,NA,Ebola,NA,Yes
+631,1916,NA,NA,Polio,NA,Yes
+632,1813,NA,NA,NA,NA,No
+633,1889,NA,NA,Avian,NA,Yes
+634,1919,NA,NA,Avian,NA,Yes
+635,1955,NA,NA,MERS-CoV,NA,Yes
+636,1933,NA,NA,Ebola,NA,Yes
+637,1869,NA,NA,Ebola,NA,Yes
+638,1863,NA,NA,MERS-CoV,NA,Yes
+639,1838,NA,NA,Ebola,NA,Yes
+640,1915,NA,NA,Ebola,NA,Yes
+641,1811,NA,NA,Avian,NA,No
+642,1922,NA,NA,Ebola,NA,Yes
+643,1858,NA,NA,Ebola,NA,Yes
+644,1941,NA,NA,Avian,NA,Yes
+645,1823,NA,NA,NA,NA,No
+646,1917,NA,NA,Ebola,NA,Yes
+647,1908,NA,NA,Ebola,NA,Yes
+648,1965,NA,NA,Avian,NA,Yes
+649,1964,NA,NA,Avian,NA,Yes
+650,1895,NA,NA,Ebola,NA,Yes
+651,1997,NA,NA,Avian,NA,Yes
+652,1894,NA,NA,MERS-CoV,NA,Yes
+653,1980,NA,NA,Avian,NA,Yes
+654,1934,NA,NA,Avian,NA,Yes
+655,1925,NA,NA,Avian,NA,Yes
+656,1879,NA,NA,Ebola,NA,Yes
+657,1866,NA,NA,Avian,NA,Yes
+658,1986,NA,NA,Avian,NA,Yes
+659,1867,NA,NA,Ebola,NA,Yes
+660,1859,NA,NA,MERS-CoV,NA,Yes
+661,1847,NA,NA,Ebola,NA,Yes
+662,1949,NA,NA,Ebola,NA,Yes
+663,1948,NA,NA,Ebola,NA,Yes
+664,1988,NA,NA,MERS-CoV,NA,Yes
+665,1828,NA,NA,Enterovirus,NA,No
+666,1902,NA,NA,MERS-CoV,NA,Yes
+667,1862,NA,NA,MERS-CoV,NA,Yes
+668,1832,NA,NA,Ebola,NA,No
+669,1935,NA,NA,Ebola,NA,No
+670,1841,NA,NA,Ebola,NA,Yes
+671,1971,NA,NA,Avian,NA,Yes
+672,750,NA,NA,Influenza,NA,Yes
+673,733,NA,NA,Cholera,NA,No
+674,728,NA,NA,Crimean-Congo haemorrhagic fever,NA,No
+675,739,NA,NA,Cholera,NA,No
+676,749,NA,NA,Influenza,NA,Yes
+677,675,NA,NA,Meningitis,NA,No
+678,693,NA,NA,NA,NA,No
+679,742,NA,NA,Influenza,NA,No
+680,679,NA,NA,NA,NA,Yes
+681,688,NA,NA,NA,NA,No
+682,705,NA,NA,Cholera,NA,Yes
+683,677,NA,NA,NA,NA,No
+684,687,NA,NA,Plague,NA,No
+685,674,NA,NA,Yellow fever,NA,No
+686,673,NA,NA,Influenza,NA,No
+687,696,NA,NA,Cholera,NA,No
+688,701,NA,NA,Cholera,NA,Yes
+689,734,NA,NA,Cholera,NA,No
+690,689,NA,NA,Yellow fever,NA,No
+691,700,NA,NA,Cholera,NA,No
+692,678,NA,NA,NA,NA,Yes
+693,725,NA,NA,Malaria,NA,No
+694,694,NA,NA,Cholera,NA,No
+695,686,NA,NA,Rift Valley fever,NA,No
+696,747,NA,NA,Cholera,NA,No
+697,717,NA,NA,Cholera,NA,No
+698,684,NA,NA,NA,NA,Yes
+699,738,NA,NA,Cholera,NA,No
+700,736,NA,NA,Cholera,NA,Yes
+701,762,NA,NA,Influenza,NA,Yes
+702,723,NA,NA,Dengue,NA,No
+703,760,NA,NA,Cholera,NA,No
+704,727,NA,NA,Cholera,NA,No
+705,731,NA,NA,Meningitis,NA,No
+706,719,NA,NA,Cholera,NA,No
+707,712,NA,NA,Dengue,NA,No
+708,741,NA,NA,Cholera,NA,Yes
+709,729,NA,NA,Crimean-Congo haemorrhagic fever,NA,No
+710,711,NA,NA,Cholera,NA,No
+711,716,NA,NA,Meningitis,NA,No
+712,699,NA,NA,Cholera,NA,No
+713,746,NA,NA,Cholera,NA,No
+714,697,NA,NA,Cholera,NA,No
+715,740,NA,NA,Cholera,NA,Yes
+716,722,NA,NA,Enterovirus,NA,Yes
+717,732,NA,NA,Dengue,NA,No
+718,755,NA,NA,Influenza,NA,Yes
+719,676,NA,NA,Cholera,NA,No
+720,765,NA,NA,Influenza,NA,No
+721,715,NA,NA,Anthrax,NA,No
+722,706,NA,NA,Cholera,NA,No
+723,763,NA,NA,Cholera,NA,No
+724,682,NA,NA,NA,NA,Yes
+725,761,NA,NA,Cholera,NA,No
+726,758,NA,NA,NA,NA,No
+727,692,NA,NA,Yellow fever,NA,Yes
+728,753,NA,NA,Influenza,NA,Yes
+729,708,NA,NA,Meningitis,NA,Yes
+730,702,NA,NA,Typhoid fever,NA,No
+731,751,NA,NA,Rift Valley fever,NA,Yes
+732,744,NA,NA,Cholera,NA,Yes
+733,681,NA,NA,Cholera,NA,No
+734,680,NA,NA,Cholera,NA,No
+735,707,NA,NA,Yellow fever,NA,No
+736,759,NA,NA,Influenza,NA,Yes
+737,724,NA,NA,Malaria,NA,No
+738,698,NA,NA,NA,NA,No
+739,709,NA,NA,Cholera,NA,Yes
+740,710,NA,NA,Cholera,NA,No
+741,764,NA,NA,Rift Valley fever,NA,No
+742,754,NA,NA,Rift Valley fever,NA,Yes
+743,703,NA,NA,Cholera,NA,No
+744,730,NA,NA,NA,NA,No
+745,713,NA,NA,Cholera,NA,Yes
+746,757,NA,NA,Influenza,NA,Yes
+747,683,NA,NA,NA,NA,Yes
+748,695,NA,NA,Cholera,NA,No
+749,752,NA,NA,Influenza,NA,Yes
+750,735,NA,NA,Cholera,NA,No
+751,691,NA,NA,Cholera,NA,No
+752,756,NA,NA,Cholera,NA,No
+753,748,NA,NA,Meningitis,NA,No
+754,714,NA,NA,Legionellosis,NA,No
+755,704,NA,NA,Cholera,NA,Yes
+756,726,NA,NA,Cholera,NA,No
+757,745,NA,NA,Cholera,NA,No
+758,720,NA,NA,Enterovirus,NA,Yes
+759,690,NA,NA,Cholera,NA,No
+760,743,NA,NA,Dengue,NA,No
+761,737,NA,NA,Influenza,NA,Yes
+762,721,NA,NA,Cholera,NA,No
+763,685,NA,NA,NA,NA,Yes
+764,718,NA,NA,Cholera,NA,No
+765,2103,NA,NA,Marburg haemorrhagic fever,NA,Yes
+766,2063,NA,NA,Cholera,NA,Yes
+767,2113,NA,NA,Marburg haemorrhagic fever,NA,Yes
+768,2012,NA,NA,Avian,NA,Yes
+769,2044,NA,NA,Avian,NA,Yes
+770,2114,NA,NA,Avian,NA,Yes
+771,2106,NA,NA,Polio,NA,No
+772,2144,NA,NA,Plague,NA,Yes
+773,2138,NA,NA,Plague,NA,Yes
+774,2073,NA,NA,Polio,NA,Yes
+775,2061,NA,NA,Avian,NA,Yes
+776,2013,NA,NA,Yellow fever,NA,Yes
+777,2135,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+778,2052,NA,NA,Marburg haemorrhagic fever,NA,Yes
+779,2118,NA,NA,Marburg haemorrhagic fever,NA,Yes
+780,2099,NA,NA,NA,NA,No
+781,2133,NA,NA,Meningococcal disease,NA,No
+782,2161,NA,NA,Typhoid fever,NA,Yes
+783,2026,NA,NA,Yellow fever,NA,Yes
+784,2112,NA,NA,Avian,NA,Yes
+785,2104,NA,NA,Avian,NA,Yes
+786,2064,NA,NA,Marburg haemorrhagic fever,NA,Yes
+787,2119,NA,NA,Marburg haemorrhagic fever,NA,Yes
+788,2016,NA,NA,Avian,NA,Yes
+789,2156,NA,NA,Avian,NA,Yes
+790,2132,NA,NA,Marburg haemorrhagic fever,NA,Yes
+791,2130,NA,NA,Marburg haemorrhagic fever,NA,Yes
+792,2145,NA,NA,Plague,NA,No
+793,2031,NA,NA,Yellow fever,NA,No
+794,2158,NA,NA,Meningococcal disease,NA,Yes
+795,2163,NA,NA,Avian,NA,Yes
+796,2078,NA,NA,Avian,NA,Yes
+797,2007,NA,NA,Avian,NA,Yes
+798,2090,NA,NA,Polio,NA,Yes
+799,2036,NA,NA,Avian,NA,Yes
+800,2083,NA,NA,Polio,NA,Yes
+801,2081,NA,NA,Avian,NA,Yes
+802,2124,NA,NA,Marburg haemorrhagic fever,NA,Yes
+803,2054,NA,NA,NA,NA,No
+804,2059,NA,NA,Marburg haemorrhagic fever,NA,Yes
+805,2019,NA,NA,Yellow fever,NA,Yes
+806,2153,NA,NA,Meningococcal disease,NA,Yes
+807,2095,NA,NA,Marburg haemorrhagic fever,NA,Yes
+808,2148,NA,NA,Dengue,NA,Yes
+809,2035,NA,NA,Yellow fever,NA,No
+810,2011,NA,NA,Avian,NA,Yes
+811,2032,NA,NA,Avian,NA,Yes
+812,2018,NA,NA,Yellow fever,NA,Yes
+813,2008,NA,NA,Avian,NA,Yes
+814,2041,NA,NA,Avian,NA,Yes
+815,2116,NA,NA,Marburg haemorrhagic fever,NA,Yes
+816,2167,NA,NA,Avian,NA,Yes
+817,2126,NA,NA,Cholera,NA,Yes
+818,2038,NA,NA,Polio,NA,Yes
+819,2149,NA,NA,Avian,NA,Yes
+820,2030,NA,NA,Yellow fever,NA,No
+821,2164,NA,NA,NA,NA,No
+822,2154,NA,NA,Meningococcal disease,NA,Yes
+823,2100,NA,NA,Meningococcal disease,NA,Yes
+824,2157,NA,NA,Avian,NA,Yes
+825,2127,NA,NA,Avian,NA,Yes
+826,2125,NA,NA,Marburg haemorrhagic fever,NA,Yes
+827,2136,NA,NA,Myocarditis,NA,No
+828,2057,NA,NA,Avian,NA,Yes
+829,2079,NA,NA,Ebola,NA,Yes
+830,2139,NA,NA,Avian,NA,Yes
+831,2033,NA,NA,Avian,NA,Yes
+832,2131,NA,NA,Meningococcal disease,NA,No
+833,2075,NA,NA,Polio,NA,Yes
+834,2029,NA,NA,Marburg haemorrhagic fever,NA,Yes
+835,2056,NA,NA,NA,NA,No
+836,2152,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+837,2147,NA,NA,Meningococcal disease,NA,No
+838,2034,NA,NA,Avian,NA,Yes
+839,2077,NA,NA,Marburg haemorrhagic fever,NA,Yes
+840,2058,NA,NA,Cholera,NA,No
+841,2093,NA,NA,Ebola,NA,Yes
+842,2074,NA,NA,Cholera,NA,No
+843,2140,NA,NA,Plague,NA,Yes
+844,2014,NA,NA,Avian,NA,Yes
+845,2065,NA,NA,Cholera,NA,Yes
+846,2085,NA,NA,Avian,NA,Yes
+847,2122,NA,NA,Marburg haemorrhagic fever,NA,Yes
+848,2115,NA,NA,Marburg haemorrhagic fever,NA,Yes
+849,2155,NA,NA,Avian,NA,Yes
+850,2049,NA,NA,Cholera,NA,No
+851,2010,NA,NA,Avian,NA,Yes
+852,2080,NA,NA,Polio,NA,Yes
+853,2020,NA,NA,Avian,NA,Yes
+854,2159,NA,NA,Meningococcal disease,NA,Yes
+855,2060,NA,NA,Polio,NA,Yes
+856,2053,NA,NA,Avian,NA,Yes
+857,2094,NA,NA,Avian,NA,Yes
+858,2021,NA,NA,Avian,NA,Yes
+859,2071,NA,NA,Avian,NA,Yes
+860,2009,NA,NA,Yellow fever,NA,Yes
+861,2142,NA,NA,Plague,NA,Yes
+862,2067,NA,NA,Polio,NA,Yes
+863,2098,NA,NA,Cholera,NA,Yes
+864,2043,NA,NA,Avian,NA,Yes
+865,2151,NA,NA,Avian,NA,Yes
+866,2105,NA,NA,Marburg haemorrhagic fever,NA,Yes
+867,2137,NA,Nigeria,NA,NA,No
+868,2121,NA,NA,Marburg haemorrhagic fever,NA,Yes
+869,2087,NA,NA,Marburg haemorrhagic fever,NA,Yes
+870,2072,NA,NA,Avian,NA,Yes
+871,2066,NA,NA,Polio,NA,Yes
+872,2062,NA,NA,Polio,NA,Yes
+873,2128,NA,NA,Cholera,NA,No
+874,2028,NA,NA,Avian,NA,Yes
+875,2168,NA,NA,Yellow fever,NA,No
+876,2092,NA,NA,Cholera,NA,Yes
+877,2162,NA,NA,Avian,NA,Yes
+878,2051,NA,NA,Polio,NA,Yes
+879,2055,NA,NA,Avian,NA,Yes
+880,2102,NA,NA,Meningococcal disease,NA,No
+881,2046,NA,NA,Polio,NA,No
+882,2040,NA,NA,Cholera,NA,Yes
+883,2129,NA,NA,Avian,NA,Yes
+884,2047,NA,NA,Polio,NA,No
+885,2024,NA,NA,Yellow fever,NA,Yes
+886,2045,NA,NA,Encephalitis,NA,No
+887,2134,NA,NA,Marburg haemorrhagic fever,NA,Yes
+888,2091,NA,NA,Marburg haemorrhagic fever,NA,Yes
+889,2025,NA,NA,Avian,NA,Yes
+890,2097,NA,NA,Meningococcal disease,NA,Yes
+891,2109,NA,NA,Cholera,NA,Yes
+892,2111,NA,NA,Marburg haemorrhagic fever,NA,Yes
+893,2042,NA,NA,Yellow fever,NA,No
+894,2110,NA,NA,Marburg haemorrhagic fever,NA,Yes
+895,2165,NA,NA,Meningococcal disease,NA,No
+896,2143,NA,NA,Dengue,NA,Yes
+897,2023,NA,NA,Avian,NA,Yes
+898,2070,NA,NA,Polio,NA,Yes
+899,2089,NA,NA,Meningococcal disease,NA,Yes
+900,2086,NA,NA,Polio,NA,Yes
+901,2084,NA,NA,Polio,NA,Yes
+902,2096,NA,NA,Ebola,NA,No
+903,2082,NA,NA,Meningococcal disease,NA,Yes
+904,2150,NA,NA,Dengue,NA,Yes
+905,2022,NA,NA,Yellow fever,NA,No
+906,2027,NA,NA,Avian,NA,Yes
+907,2076,NA,NA,Avian,NA,Yes
+908,2088,NA,NA,Polio,NA,No
+909,2068,NA,NA,Polio,NA,Yes
+910,2123,NA,NA,Avian,NA,Yes
+911,2039,NA,NA,Avian,NA,Yes
+912,2117,NA,NA,Cholera,NA,Yes
+913,2160,NA,NA,Avian,NA,Yes
+914,2017,NA,NA,Avian,NA,Yes
+915,2108,NA,NA,Marburg haemorrhagic fever,NA,Yes
+916,2050,NA,NA,Polio,NA,Yes
+917,2037,NA,NA,Avian,NA,Yes
+918,2048,NA,NA,Yellow fever,NA,No
+919,2146,NA,NA,Dengue,NA,Yes
+920,2120,NA,NA,Meningococcal disease,NA,Yes
+921,2015,NA,NA,Yellow fever,NA,Yes
+922,2107,NA,NA,Marburg haemorrhagic fever,NA,Yes
+923,2141,NA,NA,Avian,NA,Yes
+924,2166,NA,NA,Yellow fever,NA,No
+925,2069,NA,NA,Polio,NA,No
+926,2101,NA,NA,Marburg haemorrhagic fever,NA,Yes
+927,2745,NA,NA,Avian,NA,Yes
+928,2749,NA,NA,Avian,NA,No
+929,2715,NA,NA,Avian,NA,Yes
+930,2660,NA,NA,Avian,NA,No
+931,2686,NA,NA,SARS,NA,Yes
+932,2752,NA,NA,Ebola,NA,Yes
+933,2706,NA,NA,Dengue,NA,Yes
+934,2748,NA,NA,Influenza,NA,Yes
+935,2705,NA,NA,Avian,NA,Yes
+936,2640,NA,NA,Avian,NA,No
+937,2721,NA,NA,NA,NA,No
+938,2733,NA,NA,Avian,NA,Yes
+939,2731,NA,NA,SARS,NA,Yes
+940,2747,NA,NA,Avian,NA,Yes
+941,2665,NA,NA,Shigellosis,NA,No
+942,2753,NA,NA,SARS,NA,Yes
+943,2713,NA,NA,Avian,NA,Yes
+944,2736,NA,NA,Avian,NA,Yes
+945,2740,NA,NA,Avian,NA,Yes
+946,2716,NA,NA,Cholera,NA,No
+947,2725,NA,NA,Avian,NA,Yes
+948,2638,NA,NA,Avian,NA,No
+949,2651,NA,NA,Rabies,NA,No
+950,2719,NA,NA,Avian,NA,Yes
+951,2652,NA,NA,Cholera,NA,No
+952,2712,NA,NA,Yellow fever,NA,No
+953,2685,NA,NA,SARS,NA,Yes
+954,2635,NA,NA,Yellow fever,NA,No
+955,2695,NA,NA,Meningococcal disease,NA,No
+956,2735,NA,NA,Avian,NA,Yes
+957,2664,NA,NA,Avian,NA,No
+958,2696,NA,NA,Avian,NA,No
+959,2741,NA,NA,Avian,NA,Yes
+960,2727,NA,NA,Avian,NA,Yes
+961,2650,NA,NA,Hepatitis,NA,Yes
+962,2709,NA,NA,Avian,NA,Yes
+963,2642,NA,NA,Hepatitis,NA,Yes
+964,2693,NA,NA,Meningococcal disease,NA,No
+965,2684,NA,NA,SARS,NA,Yes
+966,2674,NA,NA,NA,NA,No
+967,2688,NA,NA,SARS,NA,Yes
+968,2737,NA,NA,SARS,NA,Yes
+969,2683,NA,NA,Yellow fever,NA,No
+970,2701,NA,NA,Avian,NA,Yes
+971,2669,NA,NA,Leptospirosis,NA,No
+972,2722,NA,NA,Avian,NA,Yes
+973,2700,NA,NA,Cholera,NA,No
+974,2646,NA,NA,Yellow fever,NA,No
+975,2649,NA,NA,Avian,NA,Yes
+976,2697,NA,NA,Dengue,NA,Yes
+977,2743,NA,NA,Influenza,NA,Yes
+978,2691,NA,NA,Lassa fever,NA,No
+979,2690,NA,NA,SARS,NA,No
+980,2676,NA,NA,Ebola,NA,Yes
+981,2723,NA,NA,Avian,NA,Yes
+982,2645,NA,NA,Hepatitis,NA,Yes
+983,2673,NA,NA,Ebola,NA,Yes
+984,2632,NA,NA,Avian,NA,No
+985,2717,NA,NA,Avian,NA,Yes
+986,2634,NA,Nigeria,Cholera,NA,No
+987,2744,NA,NA,Avian,NA,Yes
+988,2644,NA,NA,Cholera,NA,Yes
+989,2658,NA,NA,Avian,NA,No
+990,2699,NA,Nigeria,Meningococcal disease,NA,No
+991,2667,NA,NA,Ebola,NA,Yes
+992,2724,NA,NA,Avian,NA,Yes
+993,2678,NA,NA,Ebola,NA,Yes
+994,2659,NA,NA,Avian,NA,No
+995,2682,NA,NA,Dengue,NA,Yes
+996,2742,NA,NA,Avian,NA,Yes
+997,2729,NA,NA,Avian,NA,Yes
+998,2732,NA,NA,Avian,NA,Yes
+999,2702,NA,NA,Influenza,NA,No
+1000,2633,NA,NA,Typhoid fever,NA,No
+1001,2708,NA,NA,Avian,NA,Yes
+1002,2671,NA,NA,Cholera,NA,No
+1003,2707,NA,NA,Yellow fever,NA,Yes
+1004,2679,NA,NA,Ebola,NA,Yes
+1005,2637,NA,NA,Cholera,NA,No
+1006,2653,NA,NA,Hepatitis,NA,Yes
+1007,2675,NA,NA,Cholera,NA,No
+1008,2728,NA,NA,Avian,NA,Yes
+1009,2720,NA,NA,Avian,NA,Yes
+1010,2648,NA,NA,Hepatitis,NA,Yes
+1011,2643,NA,NA,Hepatitis,NA,Yes
+1012,2726,NA,NA,Avian,NA,Yes
+1013,2711,NA,NA,NA,NA,Yes
+1014,2710,NA,NA,Dengue,NA,No
+1015,2656,NA,NA,Avian,NA,No
+1016,2689,NA,NA,SARS,NA,Yes
+1017,2692,NA,NA,Nipah virus,NA,No
+1018,2677,NA,NA,Yellow fever,NA,Yes
+1019,2738,NA,NA,Avian,NA,Yes
+1020,2655,NA,NA,Avian,NA,Yes
+1021,2730,NA,NA,Avian,NA,Yes
+1022,2714,NA,NA,Avian,NA,Yes
+1023,2670,NA,NA,Ebola,NA,Yes
+1024,2698,NA,NA,Meningococcal disease,NA,No
+1025,2680,NA,NA,SARS,NA,Yes
+1026,2746,NA,NA,Avian,NA,Yes
+1027,2703,NA,NA,Avian,NA,Yes
+1028,2751,NA,NA,Influenza,NA,Yes
+1029,2672,NA,NA,Ebola,NA,Yes
+1030,2681,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+1031,2750,NA,NA,SARS,NA,Yes
+1032,2666,NA,NA,Avian,NA,No
+1033,2694,NA,NA,Dengue,NA,Yes
+1034,2718,NA,NA,Avian,NA,Yes
+1035,2668,NA,NA,Ebola,NA,Yes
+1036,2654,NA,NA,Hepatitis,NA,Yes
+1037,2657,NA,NA,Hepatitis,NA,No
+1038,2734,NA,NA,Cholera,NA,No
+1039,2639,NA,NA,Avian,NA,No
+1040,2662,NA,NA,Ebola,NA,No
+1041,2647,NA,NA,Avian,NA,No
+1042,2687,NA,NA,SARS,NA,Yes
+1043,2661,NA,NA,Hepatitis,NA,No
+1044,2636,NA,NA,Cholera,NA,Yes
+1045,2739,NA,NA,Avian,NA,Yes
+1046,2704,NA,NA,Yellow fever,NA,Yes
+1047,2663,NA,NA,Avian,NA,No
+1048,2641,NA,NA,Avian,NA,No
+1049,1663,NA,NA,MERS-CoV,NA,No
+1050,1576,NA,NA,Cholera,NA,No
+1051,1677,NA,NA,Avian,NA,No
+1052,1595,NA,NA,MERS-CoV,NA,No
+1053,1563,NA,NA,MERS-CoV,NA,No
+1054,1566,NA,NA,MERS-CoV,NA,No
+1055,1537,NA,NA,Microcephaly,NA,No
+1056,1618,NA,NA,Measles,NA,No
+1057,1650,NA,NA,Meningococcal disease,NA,No
+1058,1680,NA,NA,Avian,NA,No
+1059,1645,NA,NA,Avian,NA,No
+1060,1675,NA,NA,MERS-CoV,NA,No
+1061,1676,NA,NA,Avian,NA,No
+1062,1640,NA,NA,MERS-CoV,NA,No
+1063,1551,NA,NA,Zika virus infection,NA,No
+1064,1660,NA,NA,MERS-CoV,NA,No
+1065,1681,NA,NA,MERS-CoV,NA,No
+1066,1683,NA,NA,MERS-CoV,NA,No
+1067,1558,NA,NA,MERS-CoV,NA,No
+1068,1533,NA,NA,Zika virus infection,NA,No
+1069,1617,NA,NA,Avian,NA,No
+1070,1604,NA,NA,MERS-CoV,NA,No
+1071,1569,NA,NA,MERS-CoV,NA,No
+1072,1584,NA,NA,MERS-CoV,NA,No
+1073,1637,NA,NA,MERS-CoV,NA,No
+1074,1574,NA,NA,MERS-CoV,NA,No
+1075,1540,NA,NA,MERS-CoV,NA,No
+1076,1657,NA,Nigeria,Meningococcal disease,NA,No
+1077,1639,NA,NA,MERS-CoV,NA,No
+1078,1557,NA,NA,MERS-CoV,NA,No
+1079,1538,NA,NA,Cholera,NA,No
+1080,1641,NA,NA,MERS-CoV,NA,No
+1081,1575,NA,NA,Chikungunya,NA,No
+1082,1543,NA,NA,Zika virus infection,NA,No
+1083,1588,NA,NA,MERS-CoV,NA,No
+1084,1596,NA,NA,Avian,NA,No
+1085,1684,NA,NA,MERS-CoV,NA,No
+1086,1616,NA,NA,MERS-CoV,NA,No
+1087,1556,NA,NA,MERS-CoV,NA,No
+1088,1624,NA,NA,MERS-CoV,NA,No
+1089,1532,NA,NA,Zika virus infection,NA,No
+1090,1670,NA,NA,Avian,NA,No
+1091,1615,NA,NA,MERS-CoV,NA,No
+1092,1571,NA,NA,MERS-CoV,NA,No
+1093,1672,NA,NA,MERS-CoV,NA,No
+1094,1674,NA,NA,Avian,NA,No
+1095,1534,NA,NA,Polio,NA,No
+1096,1629,NA,NA,MERS-CoV,NA,No
+1097,1662,NA,NA,Measles,NA,No
+1098,1592,NA,NA,Polio,NA,No
+1099,1653,NA,NA,MERS-CoV,NA,No
+1100,1647,NA,NA,MERS-CoV,NA,No
+1101,1651,NA,NA,MERS-CoV,NA,No
+1102,1620,NA,NA,MERS-CoV,NA,No
+1103,1539,NA,NA,Zika virus infection,NA,No
+1104,1535,NA,NA,Avian,NA,No
+1105,1559,NA,NA,Zika virus infection,NA,No
+1106,1547,NA,NA,Cholera,NA,No
+1107,1583,NA,NA,Polio,NA,No
+1108,1565,NA,NA,Polio,NA,No
+1109,1655,NA,NA,MERS-CoV,NA,No
+1110,1577,NA,NA,MERS-CoV,NA,No
+1111,1652,NA,NA,Avian,NA,No
+1112,1562,NA,NA,Cholera,NA,No
+1113,1665,NA,NA,MERS-CoV,NA,No
+1114,1671,NA,NA,MERS-CoV,NA,No
+1115,1591,NA,NA,MERS-CoV,NA,No
+1116,1626,NA,NA,MERS-CoV,NA,No
+1117,1661,NA,NA,MERS-CoV,NA,No
+1118,1581,NA,NA,MERS-CoV,NA,No
+1119,1589,NA,NA,Chikungunya,NA,No
+1120,1601,NA,NA,MERS-CoV,NA,No
+1121,1587,NA,NA,MERS-CoV,NA,No
+1122,1541,NA,NA,Zika virus infection,NA,No
+1123,1682,NA,NA,MERS-CoV,NA,No
+1124,1550,NA,NA,Acute respiratory syndrome,NA,No
+1125,1621,NA,NA,MERS-CoV,NA,No
+1126,1567,NA,NA,MERS-CoV,NA,No
+1127,1580,NA,NA,MERS-CoV,NA,No
+1128,1542,NA,NA,Zika virus infection,NA,No
+1129,1667,NA,NA,MERS-CoV,NA,No
+1130,1628,NA,NA,MERS-CoV,NA,No
+1131,1560,NA,NA,Cholera,NA,No
+1132,1548,NA,NA,Cholera,NA,No
+1133,1597,NA,NA,MERS-CoV,NA,No
+1134,1536,NA,NA,Polio,NA,No
+1135,1608,NA,NA,MERS-CoV,NA,No
+1136,1602,NA,NA,MERS-CoV,NA,Yes
+1137,1573,NA,NA,West Nile,NA,No
+1138,1549,NA,NA,Microcephaly,NA,No
+1139,1659,NA,NA,MERS-CoV,NA,No
+1140,1593,NA,NA,MERS-CoV,NA,No
+1141,1644,NA,NA,Meningococcal disease,NA,No
+1142,1630,NA,NA,MERS-CoV,NA,No
+1143,1679,NA,NA,MERS-CoV,NA,No
+1144,1579,NA,NA,Plague,NA,No
+1145,1612,NA,NA,MERS-CoV,NA,No
+1146,1656,NA,NA,Typhoid fever,NA,No
+1147,1648,NA,NA,MERS-CoV,NA,No
+1148,1609,NA,NA,MERS-CoV,NA,No
+1149,1598,NA,NA,MERS-CoV,NA,No
+1150,1678,NA,NA,MERS-CoV,NA,No
+1151,1654,NA,NA,MERS-CoV,NA,No
+1152,1545,NA,NA,Zika virus infection,NA,No
+1153,1668,NA,NA,Measles,NA,No
+1154,1594,NA,NA,Meningococcal disease,NA,Yes
+1155,1625,NA,NA,MERS-CoV,NA,No
+1156,1544,NA,NA,Zika virus infection,NA,No
+1157,1570,NA,NA,MERS-CoV,NA,No
+1158,1649,NA,NA,MERS-CoV,NA,No
+1159,1635,NA,NA,MERS-CoV,NA,No
+1160,1590,NA,NA,MERS-CoV,NA,No
+1161,1669,NA,NA,MERS-CoV,NA,No
+1162,1673,NA,NA,MERS-CoV,NA,No
+1163,1546,NA,NA,Microcephaly,NA,No
+1164,1611,NA,NA,MERS-CoV,NA,No
+1165,1633,NA,NA,MERS-CoV,NA,No
+1166,1638,NA,NA,MERS-CoV,NA,No
+1167,1582,NA,NA,MERS-CoV,NA,No
+1168,1666,NA,NA,MERS-CoV,NA,No
+1169,1643,NA,NA,MERS-CoV,NA,No
+1170,1605,NA,NA,MERS-CoV,NA,No
+1171,1636,NA,NA,Lassa fever,NA,No
+1172,1585,NA,NA,MERS-CoV,NA,No
+1173,1623,NA,NA,MERS-CoV,NA,No
+1174,1572,NA,NA,Chikungunya,NA,Yes
+1175,1600,NA,NA,MERS-CoV,NA,Yes
+1176,1552,NA,NA,Avian,NA,No
+1177,1613,NA,NA,MERS-CoV,NA,No
+1178,1564,NA,NA,MERS-CoV,NA,No
+1179,1568,NA,NA,Cholera,NA,No
+1180,1646,NA,NA,Ebola,NA,No
+1181,1599,NA,NA,Avian,NA,No
+1182,1658,NA,NA,Avian,NA,No
+1183,1555,NA,NA,Zika virus infection,NA,No
+1184,1578,NA,NA,MERS-CoV,NA,No
+1185,1614,NA,NA,MERS-CoV,NA,No
+1186,1553,NA,NA,MERS-CoV,NA,No
+1187,1607,NA,NA,MERS-CoV,NA,No
+1188,1586,NA,NA,MERS-CoV,NA,No
+1189,1622,NA,NA,MERS-CoV,NA,No
+1190,1627,NA,NA,MERS-CoV,NA,No
+1191,1632,NA,NA,MERS-CoV,NA,No
+1192,1603,NA,NA,MERS-CoV,NA,No
+1193,1634,NA,NA,MERS-CoV,NA,No
+1194,1531,NA,NA,Zika virus infection,NA,No
+1195,1642,NA,NA,MERS-CoV,NA,No
+1196,1554,NA,NA,Dengue,NA,No
+1197,1619,NA,NA,MERS-CoV,NA,No
+1198,1606,NA,NA,MERS-CoV,NA,No
+1199,1664,NA,NA,Avian,NA,No
+1200,1561,NA,NA,Avian,NA,No
+1201,1610,NA,NA,MERS-CoV,NA,No
+1202,1631,NA,NA,MERS-CoV,NA,No
+1203,2324,NA,NA,Pandemic (H1N1),NA,Yes
+1204,2388,NA,NA,Pandemic (H1N1),NA,Yes
+1205,2325,NA,NA,Avian,NA,Yes
+1206,2297,NA,NA,Avian,NA,Yes
+1207,2376,NA,NA,Avian,NA,Yes
+1208,2370,NA,NA,Pandemic (H1N1),NA,Yes
+1209,2383,NA,NA,Avian,NA,Yes
+1210,2382,NA,NA,Pandemic (H1N1),NA,Yes
+1211,2386,NA,NA,Yellow fever,NA,No
+1212,2305,NA,NA,Polio,NA,No
+1213,2340,NA,NA,Pandemic (H1N1),NA,Yes
+1214,2303,NA,NA,Polio,NA,No
+1215,2318,NA,NA,Influenza,NA,Yes
+1216,2342,NA,NA,Pandemic (H1N1),NA,Yes
+1217,2307,NA,NA,Cholera,NA,Yes
+1218,2367,NA,NA,Avian,NA,Yes
+1219,2310,NA,NA,Crimean-Congo haemorrhagic fever,NA,No
+1220,2320,NA,NA,Avian,NA,Yes
+1221,2369,NA,NA,Avian,NA,Yes
+1222,2378,NA,NA,Pandemic (H1N1),NA,Yes
+1223,2344,NA,NA,Yellow fever,NA,No
+1224,2355,NA,NA,Pandemic (H1N1),NA,Yes
+1225,2350,NA,NA,Rift Valley fever,NA,Yes
+1226,2368,NA,NA,Pandemic (H1N1),NA,Yes
+1227,2353,NA,NA,Polio,NA,Yes
+1228,2360,NA,NA,Meningococcal disease,NA,No
+1229,2349,NA,NA,Avian,NA,No
+1230,2323,NA,NA,Avian,NA,Yes
+1231,2341,NA,NA,Avian,NA,No
+1232,2343,NA,NA,Pandemic (H1N1),NA,Yes
+1233,2298,NA,NA,Avian,NA,Yes
+1234,2327,NA,NA,Pandemic (H1N1),NA,Yes
+1235,2312,NA,NA,Cholera,NA,No
+1236,2329,NA,NA,Yellow fever,NA,No
+1237,2348,NA,NA,Pandemic (H1N1),NA,Yes
+1238,2306,NA,NA,Cholera,NA,Yes
+1239,2332,NA,NA,Pandemic (H1N1),NA,Yes
+1240,2359,NA,NA,Pandemic (H1N1),NA,Yes
+1241,2374,NA,NA,Yellow fever,NA,No
+1242,2299,NA,NA,Avian,NA,Yes
+1243,2357,NA,NA,Pandemic (H1N1),NA,Yes
+1244,2361,NA,NA,Pandemic (H1N1),NA,Yes
+1245,2337,NA,NA,NA,NA,No
+1246,2384,NA,NA,Pandemic (H1N1),NA,Yes
+1247,2356,NA,NA,Avian,NA,Yes
+1248,2328,NA,NA,Avian,NA,Yes
+1249,2385,NA,NA,Pandemic (H1N1),NA,Yes
+1250,2373,NA,NA,Pandemic (H1N1),NA,Yes
+1251,2336,NA,NA,Pandemic (H1N1),NA,Yes
+1252,2304,NA,NA,Polio,NA,Yes
+1253,2379,NA,NA,Avian,NA,Yes
+1254,2326,NA,NA,Polio,NA,Yes
+1255,2347,NA,NA,Rift Valley fever,NA,Yes
+1256,2380,NA,NA,Avian,NA,Yes
+1257,2311,NA,NA,Avian,NA,Yes
+1258,2319,NA,NA,Influenza,NA,Yes
+1259,2302,NA,NA,Cholera,NA,Yes
+1260,2365,NA,NA,Pandemic (H1N1),NA,Yes
+1261,2371,NA,NA,Avian,NA,Yes
+1262,2364,NA,NA,Avian,NA,Yes
+1263,2377,NA,NA,Avian,NA,No
+1264,2309,NA,NA,Cholera,NA,No
+1265,2354,NA,NA,Polio,NA,No
+1266,2381,NA,NA,Pandemic (H1N1),NA,Yes
+1267,2316,NA,NA,Avian,NA,Yes
+1268,2375,NA,NA,Pandemic (H1N1),NA,Yes
+1269,2363,NA,NA,Avian,NA,Yes
+1270,2317,NA,NA,Influenza,NA,Yes
+1271,2339,NA,NA,Pandemic (H1N1),NA,Yes
+1272,2351,NA,NA,Avian,NA,No
+1273,2315,NA,NA,Polio,NA,No
+1274,2335,NA,NA,NA,NA,Yes
+1275,2330,NA,NA,Polio,NA,No
+1276,2300,NA,NA,Cholera,NA,Yes
+1277,2331,NA,NA,Pandemic (H1N1),NA,Yes
+1278,2334,NA,NA,Avian,NA,Yes
+1279,2372,NA,NA,Avian,NA,Yes
+1280,2338,NA,NA,Pandemic (H1N1),NA,Yes
+1281,2322,NA,NA,Pandemic (H1N1),NA,Yes
+1282,2333,NA,Nigeria,NA,NA,No
+1283,2301,NA,NA,Avian,NA,No
+1284,2345,NA,NA,Pandemic (H1N1),NA,Yes
+1285,2321,NA,NA,Plague,NA,No
+1286,2352,NA,NA,Pandemic (H1N1),NA,Yes
+1287,2358,NA,NA,Avian,NA,Yes
+1288,2313,NA,NA,Yellow fever,NA,No
+1289,2308,NA,NA,Cholera,NA,No
+1290,2346,NA,NA,Pandemic (H1N1),NA,Yes
+1291,2366,NA,NA,Pandemic (H1N1),NA,Yes
+1292,2362,NA,NA,Rift Valley fever,NA,No
+1293,2314,NA,NA,Influenza,NA,Yes
+1294,2387,NA,NA,Yellow fever,NA,No
+1295,2272,NA,NA,Influenza,NA,Yes
+1296,2216,NA,NA,MERS-CoV,NA,Yes
+1297,2281,NA,NA,Influenza,NA,Yes
+1298,2185,NA,NA,Cholera,NA,Yes
+1299,2275,NA,NA,Influenza,NA,Yes
+1300,2269,NA,NA,Avian,NA,Yes
+1301,2225,NA,NA,MERS-CoV,NA,Yes
+1302,2273,NA,NA,Influenza,NA,Yes
+1303,2193,NA,NA,MERS-CoV,NA,Yes
+1304,2295,NA,NA,Polio,NA,No
+1305,2292,NA,NA,Novel Coronavirus,NA,Yes
+1306,2250,NA,NA,Novel Coronavirus,NA,Yes
+1307,2202,NA,NA,MERS-CoV,NA,Yes
+1308,2234,NA,NA,Yellow fever,NA,No
+1309,2259,NA,NA,Novel Coronavirus,NA,Yes
+1310,2293,NA,NA,Polio,NA,No
+1311,2249,NA,NA,Avian,NA,Yes
+1312,2217,NA,NA,MERS-CoV,NA,Yes
+1313,2228,NA,NA,MERS-CoV,NA,Yes
+1314,2236,NA,NA,Meningitis,NA,No
+1315,2192,NA,NA,MERS-CoV,NA,Yes
+1316,2190,NA,NA,Avian,NA,Yes
+1317,2296,NA,NA,Avian,NA,Yes
+1318,2210,NA,NA,MERS-CoV,NA,Yes
+1319,2290,NA,NA,Novel Coronavirus,NA,Yes
+1320,2197,NA,NA,MERS-CoV,NA,Yes
+1321,2285,NA,NA,Novel Coronavirus,NA,Yes
+1322,2278,NA,NA,Influenza,NA,Yes
+1323,2181,NA,NA,Cholera,NA,Yes
+1324,2264,NA,NA,Avian,NA,Yes
+1325,2288,NA,NA,Novel Coronavirus,NA,Yes
+1326,2232,NA,NA,MERS-CoV,NA,Yes
+1327,2289,NA,NA,Novel Coronavirus,NA,Yes
+1328,2270,NA,NA,Avian,NA,Yes
+1329,2170,NA,NA,MERS-CoV,NA,Yes
+1330,2182,NA,NA,Polio,NA,No
+1331,2213,NA,NA,MERS-CoV,NA,Yes
+1332,2284,NA,NA,Influenza,NA,No
+1333,2175,NA,NA,Avian,NA,Yes
+1334,2246,NA,NA,Novel Coronavirus,NA,Yes
+1335,2258,NA,NA,Novel Coronavirus,NA,Yes
+1336,2229,NA,NA,MERS-CoV,NA,Yes
+1337,2198,NA,NA,Cholera,NA,No
+1338,2276,NA,NA,Influenza,NA,Yes
+1339,2238,NA,NA,Polio,NA,No
+1340,2253,NA,NA,Polio,NA,No
+1341,2218,NA,NA,MERS-CoV,NA,Yes
+1342,2266,NA,NA,Avian,NA,Yes
+1343,2179,NA,NA,Polio,NA,Yes
+1344,2283,NA,NA,Influenza,NA,Yes
+1345,2194,NA,NA,Polio,NA,No
+1346,2243,NA,NA,NA,NA,Yes
+1347,2189,NA,NA,MERS-CoV,NA,Yes
+1348,2208,NA,NA,MERS-CoV,NA,Yes
+1349,2174,NA,NA,Chikungunya,NA,No
+1350,2176,NA,NA,Yellow fever,NA,Yes
+1351,2242,NA,NA,Yellow fever,NA,No
+1352,2207,NA,NA,Polio,NA,No
+1353,2201,NA,NA,Avian,NA,Yes
+1354,2255,NA,NA,Novel Coronavirus,NA,Yes
+1355,2220,NA,NA,MERS-CoV,NA,Yes
+1356,2282,NA,NA,Influenza,NA,Yes
+1357,2251,NA,NA,Novel Coronavirus,NA,Yes
+1358,2245,NA,NA,Novel Coronavirus,NA,Yes
+1359,2187,NA,NA,Polio,NA,Yes
+1360,2188,NA,NA,MERS-CoV,NA,Yes
+1361,2256,NA,NA,Avian,NA,Yes
+1362,2233,NA,NA,MERS-CoV,NA,Yes
+1363,2263,NA,NA,Avian,NA,Yes
+1364,2223,NA,NA,MERS-CoV,NA,Yes
+1365,2203,NA,NA,Yellow fever,NA,No
+1366,2231,NA,NA,MERS-CoV,NA,Yes
+1367,2214,NA,NA,Polio,NA,Yes
+1368,2211,NA,NA,MERS-CoV,NA,Yes
+1369,2268,NA,NA,Avian,NA,Yes
+1370,2177,NA,NA,MERS-CoV,NA,Yes
+1371,2244,NA,NA,Avian,NA,Yes
+1372,2206,NA,NA,MERS-CoV,NA,Yes
+1373,2183,NA,NA,MERS-CoV,NA,Yes
+1374,2286,NA,NA,Novel Coronavirus,NA,Yes
+1375,2271,NA,NA,Influenza,NA,Yes
+1376,2235,NA,NA,MERS-CoV,NA,Yes
+1377,2294,NA,NA,Novel Coronavirus,NA,Yes
+1378,2239,NA,NA,MERS-CoV,NA,Yes
+1379,2247,NA,NA,Polio,NA,No
+1380,2267,NA,NA,Avian,NA,Yes
+1381,2169,NA,NA,MERS-CoV,NA,Yes
+1382,2195,NA,NA,Cholera,NA,Yes
+1383,2172,NA,NA,MERS-CoV,NA,Yes
+1384,2241,NA,NA,MERS-CoV,NA,Yes
+1385,2224,NA,NA,MERS-CoV,NA,Yes
+1386,2204,NA,NA,MERS-CoV,NA,Yes
+1387,2178,NA,NA,MERS-CoV,NA,Yes
+1388,2199,NA,NA,Polio,NA,No
+1389,2221,NA,NA,MERS-CoV,NA,Yes
+1390,2260,NA,NA,Novel Coronavirus,NA,Yes
+1391,2209,NA,NA,MERS-CoV,NA,Yes
+1392,2291,NA,NA,Yellow fever,NA,No
+1393,2212,NA,NA,MERS-CoV,NA,Yes
+1394,2186,NA,NA,MERS-CoV,NA,Yes
+1395,2277,NA,NA,Influenza,NA,Yes
+1396,2261,NA,NA,Avian,NA,Yes
+1397,2280,NA,NA,Influenza,NA,Yes
+1398,2257,NA,NA,Avian,NA,Yes
+1399,2171,NA,NA,MERS-CoV,NA,Yes
+1400,2262,NA,NA,Avian,NA,Yes
+1401,2191,NA,NA,MERS-CoV,NA,Yes
+1402,2248,NA,NA,Novel Coronavirus,NA,Yes
+1403,2219,NA,NA,Avian,NA,Yes
+1404,2173,NA,NA,Avian,NA,Yes
+1405,2215,NA,NA,Avian,NA,Yes
+1406,2237,NA,NA,MERS-CoV,NA,Yes
+1407,2226,NA,NA,MERS-CoV,NA,Yes
+1408,2279,NA,NA,Influenza,NA,Yes
+1409,2252,NA,NA,Novel Coronavirus,NA,Yes
+1410,2200,NA,NA,MERS-CoV,NA,Yes
+1411,2222,NA,NA,Polio,NA,Yes
+1412,2265,NA,NA,Avian,NA,Yes
+1413,2230,NA,NA,MERS-CoV,NA,Yes
+1414,2287,NA,NA,Novel Coronavirus,NA,Yes
+1415,2227,NA,NA,Avian,NA,Yes
+1416,2240,NA,NA,MERS-CoV,NA,Yes
+1417,2274,NA,NA,Influenza,NA,Yes
+1418,2180,NA,NA,MERS-CoV,NA,Yes
+1419,2254,NA,NA,Novel Coronavirus,NA,Yes
+1420,2184,NA,NA,MERS-CoV,NA,Yes
+1421,2205,NA,NA,Polio,NA,Yes
+1422,2196,NA,NA,Avian,NA,Yes
+1423,1488,NA,NA,Avian,NA,Yes
+1424,1485,NA,NA,Avian,NA,Yes
+1425,1494,NA,NA,Polio,NA,No
+1426,1530,NA,NA,Avian,NA,Yes
+1427,1476,NA,NA,Influenza,NA,No
+1428,1475,NA,NA,Avian,NA,Yes
+1429,1512,NA,NA,Avian,NA,Yes
+1430,1477,NA,NA,Avian,NA,Yes
+1431,1493,NA,NA,Avian,NA,Yes
+1432,1522,NA,NA,Avian,NA,Yes
+1433,1517,NA,NA,Avian,NA,Yes
+1434,1490,NA,NA,Cholera,NA,No
+1435,1487,NA,NA,NA,NA,No
+1436,1510,NA,NA,Avian,NA,Yes
+1437,1518,NA,NA,Meningococcal disease,NA,No
+1438,1474,NA,NA,Yellow fever,NA,No
+1439,1527,NA,NA,Avian,NA,Yes
+1440,1472,NA,NA,Avian,NA,Yes
+1441,1509,NA,NA,Avian,NA,Yes
+1442,1508,NA,NA,Avian,NA,Yes
+1443,1513,NA,NA,Avian,NA,No
+1444,1503,NA,NA,Avian,NA,Yes
+1445,1524,NA,NA,Avian,NA,Yes
+1446,1501,NA,NA,Avian,NA,Yes
+1447,1526,NA,NA,Yellow fever,NA,No
+1448,1507,NA,NA,Avian,NA,Yes
+1449,1528,NA,NA,Yellow fever,NA,No
+1450,1502,NA,NA,Polio,NA,No
+1451,1489,NA,NA,Avian,NA,Yes
+1452,1497,NA,NA,NA,NA,No
+1453,1516,NA,NA,Yellow fever,NA,No
+1454,1496,NA,NA,Avian,NA,Yes
+1455,1491,NA,NA,Polio,NA,No
+1456,1529,NA,NA,Avian,NA,Yes
+1457,1481,NA,NA,Avian,NA,Yes
+1458,1521,NA,NA,Avian,NA,Yes
+1459,1499,NA,NA,NA,NA,No
+1460,1483,NA,NA,Polio,NA,No
+1461,1504,NA,NA,Measles,NA,No
+1462,1525,NA,NA,Yellow fever,NA,Yes
+1463,1486,NA,NA,West Nile,NA,No
+1464,1495,NA,NA,Avian,NA,Yes
+1465,1519,NA,NA,Avian,NA,Yes
+1466,1479,NA,NA,Avian,NA,Yes
+1467,1498,NA,NA,Avian,NA,Yes
+1468,1514,NA,NA,Avian,NA,Yes
+1469,1480,NA,NA,Avian,NA,Yes
+1470,1520,NA,NA,Avian,NA,No
+1471,1478,NA,Nigeria,NA,NA,Yes
+1472,1515,NA,NA,Avian,NA,Yes
+1473,1492,NA,NA,Avian,NA,Yes
+1474,1505,NA,NA,Avian,NA,Yes
+1475,1484,NA,NA,Polio,NA,No
+1476,1473,NA,NA,Avian,NA,Yes
+1477,1500,NA,NA,Ebola,NA,No
+1478,1511,NA,NA,Avian,NA,Yes
+1479,1523,NA,NA,Avian,NA,No
+1480,1482,NA,NA,Measles,NA,No
+1481,1506,NA,NA,Avian,NA,Yes
+1482,1190,NA,NA,Avian,NA,No
+1483,1159,NA,NA,Plague,NA,No
+1484,1206,NA,NA,Zika virus infection,NA,No
+1485,1211,NA,NA,NA,NA,No
+1486,1175,NA,NA,Chikungunya,NA,No
+1487,1170,NA,NA,NA,NA,No
+1488,1153,NA,NA,Diphtheria,NA,No
+1489,1187,NA,NA,Dengue,NA,No
+1490,1164,NA,NA,MERS-CoV,NA,No
+1491,1209,NA,NA,Ebola,NA,No
+1492,1195,NA,NA,MERS-CoV,NA,No
+1493,1198,NA,Nigeria,Lassa fever,NA,No
+1494,1163,NA,NA,MERS-CoV,NA,No
+1495,1246,NA,NA,Plague,NA,No
+1496,1165,NA,NA,NA,NA,No
+1497,1184,NA,NA,Chikungunya,NA,No
+1498,1208,NA,NA,Avian,NA,No
+1499,1241,NA,NA,Hepatitis,NA,No
+1500,1231,NA,NA,Yellow fever,NA,No
+1501,1194,NA,NA,MERS-CoV,NA,No
+1502,1204,NA,NA,Hepatitis,NA,No
+1503,1213,NA,NA,Avian,NA,No
+1504,1196,NA,NA,MERS-CoV,NA,No
+1505,1155,NA,NA,MERS-CoV,NA,No
+1506,1151,NA,NA,NA,NA,No
+1507,1192,NA,Nigeria,Hepatitis,NA,No
+1508,1224,NA,Nigeria,Meningococcal disease,NA,No
+1509,1240,NA,NA,MERS-CoV,NA,No
+1510,1160,NA,NA,Yellow fever,NA,No
+1511,1203,NA,NA,Avian,NA,No
+1512,1197,NA,NA,Avian,NA,No
+1513,1156,NA,NA,Diphtheria,NA,No
+1514,1237,NA,NA,Avian,NA,No
+1515,1176,NA,NA,MERS-CoV,NA,No
+1516,1188,NA,NA,Cholera,NA,No
+1517,1225,NA,NA,Avian,NA,No
+1518,1169,NA,NA,Avian,NA,No
+1519,1150,NA,NA,MERS-CoV,NA,No
+1520,1245,NA,NA,Yellow fever,NA,No
+1521,1202,NA,NA,Polio,NA,No
+1522,1199,NA,NA,MERS-CoV,NA,No
+1523,1210,NA,NA,Avian,NA,No
+1524,1158,NA,NA,Cholera,NA,No
+1525,1220,NA,NA,MERS-CoV,NA,No
+1526,1214,NA,NA,MERS-CoV,NA,No
+1527,1229,NA,NA,MERS-CoV,NA,No
+1528,1215,NA,NA,MERS-CoV,NA,No
+1529,1152,NA,Nigeria,Yellow fever,NA,No
+1530,1235,NA,NA,Avian,NA,No
+1531,1162,NA,NA,Plague,NA,No
+1532,1244,NA,NA,Avian,NA,No
+1533,1233,NA,NA,Yellow fever,NA,No
+1534,1189,NA,NA,Dengue,NA,No
+1535,1186,NA,NA,Avian,NA,No
+1536,1218,NA,NA,Avian,NA,No
+1537,1179,NA,NA,MERS-CoV,NA,No
+1538,1200,NA,NA,Polio,NA,No
+1539,1219,NA,NA,Yellow fever,NA,No
+1540,1216,NA,NA,Avian,NA,No
+1541,1154,NA,Nigeria,Monkeypox,NA,No
+1542,1238,NA,NA,MERS-CoV,NA,No
+1543,1191,NA,Nigeria,Cholera,NA,No
+1544,1166,NA,NA,Dengue,NA,No
+1545,1228,NA,NA,Avian,NA,No
+1546,1212,NA,NA,Hepatitis,NA,No
+1547,1182,NA,NA,Yellow fever,NA,No
+1548,1230,NA,NA,Lassa fever,NA,No
+1549,1185,NA,NA,MERS-CoV,NA,No
+1550,1172,NA,NA,MERS-CoV,NA,No
+1551,1226,NA,NA,Yellow fever,NA,No
+1552,1174,NA,NA,Plague,NA,No
+1553,1183,NA,NA,MERS-CoV,NA,No
+1554,1173,NA,NA,Plague,NA,No
+1555,1171,NA,NA,Plague,NA,No
+1556,1242,NA,NA,Avian,NA,No
+1557,1232,NA,NA,Avian,NA,No
+1558,1168,NA,NA,Plague,NA,No
+1559,1221,NA,NA,MERS-CoV,NA,No
+1560,1222,NA,NA,Avian,NA,No
+1561,1157,NA,NA,Cholera,NA,No
+1562,1161,NA,NA,NA,NA,No
+1563,1205,NA,NA,MERS-CoV,NA,No
+1564,1177,NA,NA,Chikungunya,NA,No
+1565,1193,NA,NA,NA,NA,No
+1566,1181,NA,NA,Avian,NA,No
+1567,1167,NA,NA,Plague,NA,No
+1568,1234,NA,NA,Meningococcal disease,NA,No
+1569,1236,NA,NA,Seoul virus,NA,No
+1570,1217,NA,NA,Avian,NA,No
+1571,1178,NA,NA,Avian,NA,No
+1572,1243,NA,NA,MERS-CoV,NA,No
+1573,1223,NA,NA,Yellow fever,NA,No
+1574,1207,NA,NA,Avian,NA,No
+1575,1201,NA,NA,MERS-CoV,NA,No
+1576,1247,NA,NA,Avian,NA,No
+1577,1239,NA,NA,Yellow fever,NA,No
+1578,1180,NA,NA,MERS-CoV,NA,No
+1579,1227,NA,NA,Avian,NA,No
+1580,1403,NA,NA,Ebola,NA,Yes
+1581,1415,NA,NA,Ebola,NA,Yes
+1582,1399,NA,NA,MERS-CoV,NA,Yes
+1583,1374,NA,NA,Ebola,NA,Yes
+1584,1360,NA,NA,Ebola,NA,Yes
+1585,1411,NA,NA,Ebola,NA,Yes
+1586,1409,NA,NA,MERS-CoV,NA,Yes
+1587,1434,NA,NA,Ebola,NA,Yes
+1588,1401,NA,NA,Ebola,NA,Yes
+1589,1407,NA,NA,MERS-CoV,NA,Yes
+1590,1406,NA,NA,Ebola,NA,Yes
+1591,1353,NA,NA,MERS-CoV,NA,No
+1592,1449,NA,NA,MERS-CoV,NA,Yes
+1593,1459,NA,NA,Ebola,NA,Yes
+1594,1462,NA,NA,Ebola,NA,Yes
+1595,1375,NA,NA,Ebola,NA,Yes
+1596,1422,NA,NA,Dengue,NA,No
+1597,1418,NA,NA,Ebola,NA,Yes
+1598,1408,NA,NA,Ebola,NA,Yes
+1599,1439,NA,NA,Ebola,NA,Yes
+1600,1395,NA,NA,Ebola,NA,Yes
+1601,1463,NA,NA,Hantavirus pulmonary syndrome,NA,No
+1602,1389,NA,NA,MERS-CoV,NA,Yes
+1603,1387,NA,NA,Ebola,NA,Yes
+1604,1402,NA,NA,Ebola,NA,Yes
+1605,1371,NA,NA,Ebola,NA,Yes
+1606,1381,NA,NA,Measles,NA,No
+1607,1430,NA,NA,Measles,NA,Yes
+1608,1356,NA,NA,MERS-CoV,NA,Yes
+1609,1470,NA,NA,NA,NA,No
+1610,1359,NA,NA,Dengue,NA,No
+1611,1440,NA,NA,MERS-CoV,NA,Yes
+1612,1465,NA,NA,Measles,NA,No
+1613,1373,NA,NA,Rift Valley fever,NA,No
+1614,1393,NA,NA,Ebola,NA,Yes
+1615,1367,NA,NA,Ebola,NA,Yes
+1616,1357,NA,Nigeria,Yellow fever,NA,Yes
+1617,1354,NA,NA,Yellow fever,NA,No
+1618,1358,NA,NA,Measles,NA,No
+1619,1361,NA,NA,MERS-CoV,NA,Yes
+1620,1379,NA,NA,Ebola,NA,Yes
+1621,1436,NA,NA,Ebola,NA,Yes
+1622,1428,NA,NA,Ebola,NA,Yes
+1623,1426,NA,NA,Rift Valley fever,NA,No
+1624,1458,NA,NA,Dengue,NA,No
+1625,1466,NA,NA,MERS-CoV,NA,No
+1626,1364,NA,NA,Polio,NA,Yes
+1627,1453,NA,Nigeria,Lassa fever,NA,No
+1628,1448,NA,NA,Polio,NA,No
+1629,1405,NA,NA,Polio,NA,Yes
+1630,1366,NA,NA,Polio,NA,No
+1631,1397,NA,NA,Ebola,NA,Yes
+1632,1435,NA,NA,MERS-CoV,NA,Yes
+1633,1363,NA,NA,Dengue,NA,No
+1634,1443,NA,NA,Ebola,NA,Yes
+1635,1369,NA,NA,Dengue,NA,No
+1636,1396,NA,NA,Polio,NA,No
+1637,1446,NA,NA,MERS-CoV,NA,No
+1638,1398,NA,NA,Ebola,NA,Yes
+1639,1471,NA,NA,Ebola,NA,Yes
+1640,1376,NA,NA,NA,NA,No
+1641,1468,NA,Nigeria,Yellow fever,NA,No
+1642,1425,NA,NA,Monkeypox,NA,No
+1643,1414,NA,NA,Ebola,NA,Yes
+1644,1417,NA,NA,Polio,NA,No
+1645,1432,NA,NA,Ebola,NA,Yes
+1646,1382,NA,NA,MERS-CoV,NA,Yes
+1647,1457,NA,NA,Ebola,NA,Yes
+1648,1378,NA,NA,Ebola,NA,Yes
+1649,1372,NA,NA,Dengue,NA,No
+1650,1410,NA,NA,Ebola,NA,Yes
+1651,1444,NA,NA,Ebola,NA,Yes
+1652,1469,NA,NA,Polio,NA,No
+1653,1427,NA,NA,MERS-CoV,NA,Yes
+1654,1380,NA,NA,Polio,NA,Yes
+1655,1416,NA,NA,Ebola,NA,No
+1656,1450,NA,NA,Ebola,NA,Yes
+1657,1384,NA,NA,Cholera,NA,No
+1658,1377,NA,NA,MERS-CoV,NA,No
+1659,1400,NA,NA,Polio,NA,No
+1660,1456,NA,NA,MERS-CoV,NA,No
+1661,1461,NA,NA,Polio,NA,No
+1662,1362,NA,NA,Ebola,NA,Yes
+1663,1388,NA,Nigeria,Yellow fever,NA,No
+1664,1404,NA,NA,Ebola,NA,Yes
+1665,1385,NA,NA,Ebola,NA,Yes
+1666,1455,NA,NA,Yellow fever,NA,No
+1667,1447,NA,NA,Ebola,NA,Yes
+1668,1452,NA,NA,MERS-CoV,NA,No
+1669,1355,NA,NA,Ebola,NA,Yes
+1670,1365,NA,NA,Lassa fever,NA,No
+1671,1460,NA,NA,Gonococcal infection,NA,No
+1672,1413,NA,NA,Ebola,NA,Yes
+1673,1394,NA,NA,Listeriosis,NA,No
+1674,1464,NA,NA,Ebola,NA,Yes
+1675,1383,NA,NA,Ebola,NA,Yes
+1676,1419,NA,NA,Ebola,NA,Yes
+1677,1433,NA,NA,Chikungunya,NA,No
+1678,1437,NA,NA,Yellow fever,NA,No
+1679,1431,NA,NA,Measles,NA,Yes
+1680,1391,NA,NA,Polio,NA,No
+1681,1424,NA,NA,Ebola,NA,Yes
+1682,1370,NA,NA,Yellow fever,NA,No
+1683,1386,NA,Nigeria,Yellow fever,NA,No
+1684,1390,NA,NA,Ebola,NA,Yes
+1685,1368,NA,NA,Measles,NA,No
+1686,1421,NA,NA,Ebola,NA,Yes
+1687,1412,NA,NA,NA,NA,No
+1688,1429,NA,NA,Measles,NA,Yes
+1689,1467,NA,NA,Ebola,NA,Yes
+1690,1445,NA,NA,NA,NA,No
+1691,1441,NA,NA,Ebola,NA,Yes
+1692,1392,NA,NA,NA,NA,No
+1693,1423,NA,NA,MERS-CoV,NA,Yes
+1694,1451,NA,NA,Polio,NA,No
+1695,1420,NA,NA,Polio,NA,No
+1696,1442,NA,NA,Ebola,NA,Yes
+1697,1454,NA,NA,Ebola,NA,Yes
+1698,1438,NA,NA,Ebola,NA,Yes
+1699,258,NA,NA,NA,NA,No
+1700,288,NA,NA,Avian,NA,Yes
+1701,240,NA,NA,Avian,NA,No
+1702,266,NA,NA,Avian,NA,Yes
+1703,239,NA,NA,Ebola,NA,No
+1704,260,NA,Nigeria,Polio,NA,No
+1705,285,NA,NA,Avian,NA,Yes
+1706,307,NA,NA,Avian,NA,Yes
+1707,247,NA,NA,NA,NA,No
+1708,291,NA,NA,Avian,NA,No
+1709,297,NA,NA,Avian,NA,Yes
+1710,289,NA,NA,Avian,NA,Yes
+1711,261,NA,NA,Avian,NA,No
+1712,293,NA,NA,Avian,NA,Yes
+1713,278,NA,NA,Avian,NA,Yes
+1714,276,NA,NA,Avian,NA,Yes
+1715,300,NA,NA,Avian,NA,Yes
+1716,282,NA,NA,Avian,NA,Yes
+1717,262,NA,NA,Enterovirus,NA,Yes
+1718,254,NA,NA,Cholera,NA,No
+1719,296,NA,NA,Avian,NA,Yes
+1720,241,NA,NA,Avian,NA,No
+1721,257,NA,NA,Marburg haemorrhagic fever,NA,No
+1722,269,NA,NA,Rift Valley fever,NA,No
+1723,301,NA,NA,Avian,NA,Yes
+1724,306,NA,NA,Avian,NA,Yes
+1725,263,NA,NA,Yellow fever,NA,No
+1726,250,NA,NA,Yellow fever,NA,No
+1727,302,NA,NA,Avian,NA,Yes
+1728,272,NA,NA,Avian,NA,Yes
+1729,286,NA,NA,Meningitis,NA,No
+1730,243,NA,NA,Cholera,NA,No
+1731,270,NA,NA,Yellow fever,NA,No
+1732,295,NA,NA,Yellow fever,NA,No
+1733,256,NA,NA,Yellow fever,NA,No
+1734,253,NA,NA,NA,NA,No
+1735,299,NA,NA,Avian,NA,Yes
+1736,238,NA,NA,Cholera,NA,Yes
+1737,304,NA,NA,Avian,NA,Yes
+1738,259,NA,NA,Avian,NA,Yes
+1739,242,NA,NA,Avian,NA,Yes
+1740,305,NA,NA,Avian,NA,Yes
+1741,251,NA,NA,Cholera,NA,No
+1742,275,NA,NA,Avian,NA,Yes
+1743,271,NA,NA,Avian,NA,Yes
+1744,245,NA,NA,Yellow fever,NA,No
+1745,249,NA,NA,NA,NA,Yes
+1746,265,NA,NA,Enterovirus,NA,No
+1747,246,NA,NA,NA,NA,Yes
+1748,281,NA,NA,Avian,NA,Yes
+1749,280,NA,NA,Avian,NA,Yes
+1750,244,NA,NA,Yellow fever,NA,No
+1751,292,NA,NA,Yellow fever,NA,No
+1752,303,NA,NA,Rift Valley fever,NA,Yes
+1753,298,NA,NA,Avian,NA,Yes
+1754,268,NA,NA,NA,NA,No
+1755,294,NA,NA,Avian,NA,Yes
+1756,290,NA,NA,Ebola,NA,No
+1757,309,NA,NA,Avian,NA,Yes
+1758,279,NA,NA,Yellow fever,NA,Yes
+1759,274,NA,NA,Avian,NA,Yes
+1760,255,NA,NA,Avian,NA,Yes
+1761,284,NA,NA,Avian,NA,Yes
+1762,283,NA,NA,Yellow fever,NA,Yes
+1763,252,NA,NA,NA,NA,Yes
+1764,308,NA,NA,Avian,NA,Yes
+1765,267,NA,NA,Yellow fever,NA,Yes
+1766,264,NA,NA,Enterovirus,NA,Yes
+1767,277,NA,NA,Avian,NA,Yes
+1768,287,NA,NA,Avian,NA,Yes
+1769,273,NA,NA,Dengue,NA,No
+1770,248,NA,NA,Cholera,NA,Yes
+1771,1325,NA,NA,Dengue,NA,No
+1772,1336,NA,NA,Plague,NA,No
+1773,1343,NA,NA,Tularemia,NA,Yes
+1774,1333,NA,NA,Ebola,NA,Yes
+1775,1309,NA,NA,Leishmaniasis,NA,Yes
+1776,1268,NA,NA,Yellow fever,NA,No
+1777,1311,NA,NA,Dengue,NA,No
+1778,1294,NA,NA,Dengue,NA,No
+1779,1334,NA,NA,Ebola,NA,Yes
+1780,1288,NA,NA,Influenza,NA,Yes
+1781,1281,NA,NA,West Nile,NA,Yes
+1782,1341,NA,NA,Tularemia,NA,Yes
+1783,1277,NA,NA,Cholera,NA,No
+1784,1305,NA,NA,Dengue,NA,Yes
+1785,1340,NA,NA,Ebola,NA,Yes
+1786,1315,NA,NA,Leishmaniasis,NA,No
+1787,1292,NA,NA,Meningococcal disease,NA,Yes
+1788,1259,NA,NA,West Nile,NA,Yes
+1789,1318,NA,NA,Dengue,NA,No
+1790,1331,NA,NA,Ebola,NA,Yes
+1791,1319,NA,NA,Meningitis,NA,Yes
+1792,1272,NA,NA,West Nile,NA,Yes
+1793,1256,NA,NA,West Nile,NA,Yes
+1794,1301,NA,NA,Dengue,NA,Yes
+1795,1332,NA,NA,Cholera,NA,No
+1796,1308,NA,NA,Cholera,NA,No
+1797,1329,NA,NA,Meningococcal disease,NA,Yes
+1798,1291,NA,NA,Influenza,NA,Yes
+1799,1342,NA,NA,Meningitis,NA,Yes
+1800,1295,NA,NA,Cholera,NA,Yes
+1801,1258,NA,NA,West Nile,NA,Yes
+1802,1275,NA,NA,West Nile,NA,Yes
+1803,1313,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+1804,1352,NA,NA,Ebola,NA,Yes
+1805,1321,NA,NA,Acute respiratory syndrome,NA,Yes
+1806,1271,NA,NA,West Nile,NA,Yes
+1807,1348,NA,NA,Leishmaniasis,NA,No
+1808,1263,NA,NA,West Nile,NA,Yes
+1809,1251,NA,NA,Yellow fever,NA,Yes
+1810,1347,NA,NA,Tularemia,NA,No
+1811,1269,NA,NA,Meningococcal disease,NA,Yes
+1812,1252,NA,NA,Yellow fever,NA,Yes
+1813,1287,NA,NA,Cholera,NA,Yes
+1814,1322,NA,NA,Acute respiratory syndrome,NA,No
+1815,1280,NA,NA,West Nile,NA,No
+1816,1285,NA,NA,Acute neurological syndrome,NA,Yes
+1817,1314,NA,NA,Plague,NA,No
+1818,1323,NA,NA,Cholera,NA,No
+1819,1248,NA,NA,Acute respiratory syndrome,NA,Yes
+1820,1335,NA,NA,Meningitis,NA,Yes
+1821,1349,NA,NA,Ebola,NA,Yes
+1822,1296,NA,NA,Cholera,NA,No
+1823,1337,NA,NA,Meningococcal disease,NA,Yes
+1824,1274,NA,NA,West Nile,NA,Yes
+1825,1299,NA,NA,Acute respiratory syndrome,NA,No
+1826,1249,NA,NA,Acute respiratory syndrome,NA,Yes
+1827,1328,NA,NA,Meningococcal disease,NA,Yes
+1828,1283,NA,NA,Meningococcal disease,NA,Yes
+1829,1290,NA,NA,Meningococcal disease,NA,No
+1830,1289,NA,NA,West Nile,NA,No
+1831,1339,NA,NA,NA,NA,No
+1832,1351,NA,NA,Ebola,NA,Yes
+1833,1297,NA,NA,Influenza,NA,Yes
+1834,1250,NA,NA,Acute respiratory syndrome,NA,No
+1835,1344,NA,NA,Ebola,NA,Yes
+1836,1326,NA,NA,Cholera,NA,Yes
+1837,1345,NA,NA,Yellow fever,NA,No
+1838,1346,NA,NA,Meningococcal disease,NA,Yes
+1839,1302,NA,NA,Dengue,NA,No
+1840,1282,NA,NA,Cholera,NA,No
+1841,1350,NA,NA,Ebola,NA,Yes
+1842,1300,NA,NA,Cholera,NA,No
+1843,1254,NA,NA,West Nile,NA,Yes
+1844,1260,NA,NA,Yellow fever,NA,Yes
+1845,1262,NA,NA,West Nile,NA,Yes
+1846,1312,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+1847,1278,NA,NA,Cholera,NA,No
+1848,1324,NA,NA,Ebola,NA,Yes
+1849,1317,NA,NA,Ebola,NA,Yes
+1850,1276,NA,NA,Cholera,NA,No
+1851,1293,NA,NA,Influenza,NA,Yes
+1852,1307,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+1853,1298,NA,NA,Influenza,NA,Yes
+1854,1330,NA,NA,Meningococcal disease,NA,No
+1855,1338,NA,NA,Leishmaniasis,NA,Yes
+1856,1257,NA,NA,Yellow fever,NA,Yes
+1857,1264,NA,NA,Yellow fever,NA,Yes
+1858,1316,NA,NA,Meningococcal disease,NA,Yes
+1859,1286,NA,NA,Influenza,NA,Yes
+1860,1304,NA,NA,Acute watery diarrhoeal syndrome,NA,No
+1861,1261,NA,NA,West Nile,NA,Yes
+1862,1273,NA,NA,West Nile,NA,Yes
+1863,1306,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+1864,1284,NA,NA,West Nile,NA,Yes
+1865,1255,NA,NA,West Nile,NA,Yes
+1866,1265,NA,NA,West Nile,NA,Yes
+1867,1303,NA,NA,Cholera,NA,No
+1868,1270,NA,NA,West Nile,NA,Yes
+1869,1253,NA,NA,Cholera,NA,No
+1870,1267,NA,NA,Yellow fever,NA,Yes
+1871,1310,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+1872,1279,NA,NA,Meningococcal disease,NA,Yes
+1873,1266,NA,NA,West Nile,NA,Yes
+1874,1320,NA,NA,Acute respiratory syndrome,NA,Yes
+1875,1327,NA,NA,Ebola,NA,Yes
+1876,2574,NA,NA,MERS-CoV,NA,No
+1877,2577,NA,NA,Ebola,NA,No
+1878,2556,NA,NA,Ebola,NA,Yes
+1879,2603,NA,NA,Ebola,NA,Yes
+1880,2596,NA,NA,Ebola,NA,No
+1881,2550,NA,NA,MERS-CoV,NA,No
+1882,2576,NA,NA,Yellow fever,NA,No
+1883,2560,NA,NA,Cholera,NA,Yes
+1884,2609,NA,NA,Dengue,NA,No
+1885,2605,NA,NA,Ebola,NA,No
+1886,2570,NA,NA,MERS-CoV,NA,No
+1887,2580,NA,NA,Ebola,NA,No
+1888,2612,NA,NA,Cholera,NA,No
+1889,2572,NA,NA,Ebola,NA,No
+1890,2622,NA,NA,Chikungunya,NA,No
+1891,2601,NA,NA,MERS-CoV,NA,No
+1892,2588,NA,NA,Ebola,NA,No
+1893,2551,NA,NA,Ebola,NA,Yes
+1894,2595,NA,NA,Measles,NA,No
+1895,2625,NA,NA,Lassa fever,NA,No
+1896,2631,NA,NA,MERS-CoV,NA,No
+1897,2569,NA,NA,Ebola,NA,No
+1898,2626,NA,NA,Cholera,NA,No
+1899,2629,NA,NA,Hepatitis,NA,No
+1900,2602,NA,NA,Ebola,NA,No
+1901,2606,NA,NA,Ebola,NA,No
+1902,2568,NA,NA,Cholera,NA,No
+1903,2614,NA,Nigeria,Lassa fever,NA,No
+1904,2599,NA,NA,Nipah virus,NA,No
+1905,2542,NA,NA,MERS-CoV,NA,No
+1906,2623,NA,NA,Rift Valley fever,NA,No
+1907,2613,NA,NA,Listeriosis,NA,No
+1908,2573,NA,NA,Avian,NA,Yes
+1909,2544,NA,NA,Ebola,NA,Yes
+1910,2571,NA,NA,Yellow fever,NA,No
+1911,2600,NA,NA,Ebola,NA,No
+1912,2581,NA,Nigeria,Polio,NA,No
+1913,2558,NA,NA,Chikungunya,NA,No
+1914,2545,NA,NA,Yellow fever,NA,No
+1915,2620,NA,Nigeria,Lassa fever,NA,No
+1916,2548,NA,NA,Ebola,NA,Yes
+1917,2567,NA,NA,Cholera,NA,No
+1918,2575,NA,NA,Ebola,NA,No
+1919,2618,NA,NA,Polio,NA,No
+1920,2590,NA,NA,Rift Valley fever,NA,No
+1921,2557,NA,NA,Ebola,NA,Yes
+1922,2563,NA,NA,Ebola,NA,No
+1923,2554,NA,NA,Ebola,NA,Yes
+1924,2589,NA,NA,Measles,NA,No
+1925,2559,NA,NA,Ebola,NA,No
+1926,2616,NA,NA,MERS-CoV,NA,No
+1927,2543,NA,NA,Typhoid fever,NA,No
+1928,2611,NA,NA,Listeriosis,NA,No
+1929,2562,NA,Nigeria,Monkeypox,NA,No
+1930,2593,NA,NA,Ebola,NA,No
+1931,2561,NA,NA,Cholera,NA,Yes
+1932,2591,NA,NA,MERS-CoV,NA,No
+1933,2565,NA,NA,Ebola,NA,No
+1934,2583,NA,NA,Ebola,NA,No
+1935,2619,NA,NA,Cholera,NA,No
+1936,2552,NA,NA,Ebola,NA,Yes
+1937,2564,NA,NA,MERS-CoV,NA,No
+1938,2594,NA,NA,Ebola,NA,No
+1939,2585,NA,NA,Polio,NA,No
+1940,2566,NA,NA,Ebola,NA,No
+1941,2584,NA,NA,Ebola,NA,No
+1942,2627,NA,NA,MERS-CoV,NA,No
+1943,2598,NA,NA,Monkeypox,NA,No
+1944,2610,NA,Nigeria,Lassa fever,NA,No
+1945,2607,NA,NA,Ebola,NA,No
+1946,2587,NA,NA,Polio,NA,No
+1947,2624,NA,NA,Avian,NA,No
+1948,2586,NA,NA,Ebola,NA,No
+1949,2592,NA,NA,Cholera,NA,No
+1950,2604,NA,NA,Polio,NA,No
+1951,2615,NA,NA,Influenza,NA,No
+1952,2579,NA,NA,Ebola,NA,No
+1953,2630,NA,NA,Cholera,NA,No
+1954,2621,NA,NA,Yellow fever,NA,No
+1955,2541,NA,NA,Ebola,NA,Yes
+1956,2578,NA,NA,Ebola,NA,No
+1957,2549,NA,NA,Ebola,NA,Yes
+1958,2608,NA,NA,Listeriosis,NA,No
+1959,2582,NA,NA,Nipah virus,NA,No
+1960,2555,NA,NA,Polio,NA,No
+1961,2597,NA,NA,Ebola,NA,No
+1962,2617,NA,NA,Yellow fever,NA,No
+1963,2546,NA,NA,Ebola,NA,Yes
+1964,2547,NA,NA,Ebola,NA,Yes
+1965,2553,NA,NA,MERS-CoV,NA,No
+1966,2628,NA,NA,Yellow fever,NA,No
+1967,445,NA,NA,Avian,NA,No
+1968,479,NA,NA,Avian,NA,Yes
+1969,510,NA,NA,Avian,NA,Yes
+1970,551,NA,NA,Avian,NA,Yes
+1971,534,NA,NA,Chikungunya,NA,No
+1972,483,NA,NA,Avian,NA,Yes
+1973,476,NA,NA,Avian,NA,Yes
+1974,502,NA,NA,Avian,NA,Yes
+1975,447,NA,NA,Rift Valley fever,NA,No
+1976,536,NA,NA,Avian,NA,Yes
+1977,569,NA,NA,Avian,NA,Yes
+1978,454,NA,NA,Yellow fever,NA,No
+1979,544,NA,NA,Cholera,NA,Yes
+1980,548,NA,NA,Chikungunya,NA,Yes
+1981,520,NA,NA,Avian,NA,Yes
+1982,518,NA,NA,Avian,NA,Yes
+1983,558,NA,NA,Avian,NA,Yes
+1984,552,NA,NA,Avian,NA,Yes
+1985,505,NA,NA,Avian,NA,Yes
+1986,557,NA,NA,Avian,NA,No
+1987,446,NA,NA,Rift Valley fever,NA,Yes
+1988,578,NA,NA,Avian,NA,No
+1989,555,NA,Nigeria,Avian,NA,Yes
+1990,533,NA,NA,Avian,NA,No
+1991,573,NA,NA,Meningococcal disease,NA,No
+1992,501,NA,NA,Avian,NA,Yes
+1993,452,NA,NA,Plague,NA,No
+1994,524,NA,NA,Avian,NA,Yes
+1995,546,NA,NA,Meningococcal disease,NA,No
+1996,495,NA,NA,Avian,NA,Yes
+1997,571,NA,NA,Avian,NA,No
+1998,545,NA,NA,Meningococcal disease,NA,No
+1999,562,NA,NA,Avian,NA,Yes
+2000,512,NA,NA,Avian,NA,Yes
+2001,580,NA,NA,Avian,NA,Yes
+2002,537,NA,NA,Avian,NA,Yes
+2003,456,NA,NA,Chikungunya,NA,No
+2004,522,NA,NA,Avian,NA,Yes
+2005,480,NA,NA,Avian,NA,Yes
+2006,493,NA,NA,Cholera,NA,Yes
+2007,549,NA,NA,Avian,NA,No
+2008,506,NA,NA,Cholera,NA,Yes
+2009,463,NA,NA,Avian,NA,Yes
+2010,531,NA,NA,Meningitis,NA,No
+2011,565,NA,Nigeria,Avian,NA,No
+2012,488,NA,NA,Cholera,NA,Yes
+2013,568,NA,NA,Meningococcal disease,NA,No
+2014,526,NA,NA,Avian,NA,Yes
+2015,459,NA,NA,Avian,NA,Yes
+2016,489,NA,NA,Avian,NA,Yes
+2017,461,NA,NA,Acute watery diarrhoeal syndrome,NA,No
+2018,508,NA,NA,Avian,NA,No
+2019,458,NA,NA,Plague,NA,No
+2020,529,NA,NA,Botulism,NA,No
+2021,490,NA,NA,Avian,NA,Yes
+2022,481,NA,NA,Avian,NA,No
+2023,497,NA,NA,Avian,NA,Yes
+2024,539,NA,NA,Avian,NA,Yes
+2025,482,NA,NA,Lassa fever,NA,No
+2026,450,NA,NA,Meningococcal disease,NA,No
+2027,467,NA,NA,Avian,NA,Yes
+2028,559,NA,NA,Avian,NA,Yes
+2029,486,NA,NA,Avian,NA,No
+2030,575,NA,NA,Avian,NA,Yes
+2031,532,NA,NA,Avian,NA,Yes
+2032,511,NA,NA,Avian,NA,Yes
+2033,515,NA,NA,Avian,NA,Yes
+2034,499,NA,NA,Avian,NA,Yes
+2035,514,NA,NA,Avian,NA,Yes
+2036,541,NA,Nigeria,Avian,NA,Yes
+2037,521,NA,NA,Avian,NA,Yes
+2038,466,NA,NA,Avian,NA,Yes
+2039,550,NA,NA,Avian,NA,No
+2040,572,NA,NA,Avian,NA,Yes
+2041,460,NA,NA,Botulism,NA,No
+2042,535,NA,NA,Polio,NA,No
+2043,457,NA,NA,Avian,NA,Yes
+2044,455,NA,NA,Polio,NA,No
+2045,477,NA,NA,Avian,NA,Yes
+2046,492,NA,NA,Plague,NA,No
+2047,513,NA,NA,Avian,NA,Yes
+2048,579,NA,NA,Avian,NA,Yes
+2049,561,NA,NA,Avian,NA,Yes
+2050,523,NA,NA,Avian,NA,Yes
+2051,540,NA,NA,Avian,NA,No
+2052,473,NA,NA,Avian,NA,Yes
+2053,484,NA,NA,Avian,NA,Yes
+2054,464,NA,NA,Avian,NA,Yes
+2055,583,NA,NA,Avian,NA,Yes
+2056,577,NA,NA,Avian,NA,Yes
+2057,543,NA,NA,Avian,NA,Yes
+2058,570,NA,NA,Avian,NA,Yes
+2059,527,NA,NA,Polio,NA,No
+2060,581,NA,NA,Avian,NA,No
+2061,519,NA,NA,Avian,NA,Yes
+2062,465,NA,NA,Avian,NA,Yes
+2063,528,NA,NA,Avian,NA,No
+2064,472,NA,NA,Avian,NA,Yes
+2065,566,NA,NA,Avian,NA,Yes
+2066,448,NA,NA,Yellow fever,NA,No
+2067,494,NA,NA,Polio,NA,No
+2068,556,NA,NA,Avian,NA,No
+2069,553,NA,NA,Cholera,NA,No
+2070,503,NA,NA,Avian,NA,Yes
+2071,462,NA,NA,Avian,NA,Yes
+2072,474,NA,NA,Avian,NA,Yes
+2073,500,NA,NA,Cholera,NA,Yes
+2074,509,NA,NA,Cholera,NA,No
+2075,564,NA,NA,Avian,NA,Yes
+2076,582,NA,NA,Avian,NA,Yes
+2077,471,NA,NA,Avian,NA,Yes
+2078,538,NA,NA,Avian,NA,No
+2079,547,NA,NA,Avian,NA,Yes
+2080,475,NA,NA,Avian,NA,Yes
+2081,496,NA,NA,Cholera,NA,Yes
+2082,469,NA,NA,Avian,NA,Yes
+2083,563,NA,NA,Meningococcal disease,NA,Yes
+2084,574,NA,NA,Avian,NA,Yes
+2085,487,NA,NA,Cholera,NA,Yes
+2086,504,NA,NA,Avian,NA,Yes
+2087,485,NA,NA,Avian,NA,Yes
+2088,567,NA,NA,Avian,NA,Yes
+2089,525,NA,NA,Avian,NA,Yes
+2090,453,NA,NA,Avian,NA,Yes
+2091,470,NA,NA,Polio,NA,No
+2092,498,NA,NA,Avian,NA,Yes
+2093,449,NA,NA,Avian,NA,Yes
+2094,554,NA,NA,Avian,NA,Yes
+2095,507,NA,NA,Cholera,NA,Yes
+2096,530,NA,NA,Cholera,NA,Yes
+2097,576,NA,NA,Avian,NA,Yes
+2098,468,NA,NA,Avian,NA,Yes
+2099,491,NA,NA,Avian,NA,Yes
+2100,516,NA,NA,Avian,NA,Yes
+2101,451,NA,NA,Avian,NA,Yes
+2102,560,NA,NA,Chikungunya,NA,No
+2103,478,NA,NA,Crimean-Congo haemorrhagic fever,NA,No
+2104,584,NA,NA,Avian,NA,No
+2105,542,NA,NA,Avian,NA,Yes
+2106,517,NA,NA,Avian,NA,Yes
+2107,2823,NA,NA,Crimean-Congo haemorrhagic fever,NA,Yes
+2108,2763,NA,NA,Coccidioidomycosis,NA,No
+2109,2838,NA,NA,Meningitis,NA,Yes
+2110,2847,NA,NA,Yellow fever,NA,No
+2111,2840,NA,NA,Meningitis,NA,Yes
+2112,2755,NA,NA,Ebola,NA,Yes
+2113,2773,NA,NA,Anthrax,NA,Yes
+2114,2859,NA,NA,Ebola,NA,Yes
+2115,2775,NA,NA,Anthrax,NA,Yes
+2116,2860,NA,NA,Ebola,NA,Yes
+2117,2831,NA,NA,Influenza,NA,No
+2118,2821,NA,NA,Crimean-Congo haemorrhagic fever,NA,Yes
+2119,2851,NA,NA,Meningitis,NA,Yes
+2120,2818,NA,NA,Meningococcal disease,NA,Yes
+2121,2815,NA,NA,Legionellosis,NA,No
+2122,2812,NA,NA,Cholera,NA,No
+2123,2857,NA,NA,Cholera,NA,Yes
+2124,2770,NA,NA,Anthrax,NA,Yes
+2125,2824,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+2126,2771,NA,NA,Yellow fever,NA,Yes
+2127,2836,NA,NA,Cholera,NA,No
+2128,2855,NA,NA,Ebola,NA,No
+2129,2849,NA,NA,Yellow fever,NA,No
+2130,2778,NA,NA,Anthrax,NA,No
+2131,2834,NA,NA,Meningococcal disease,NA,No
+2132,2803,NA,NA,Cholera,NA,Yes
+2133,2850,NA,NA,Ebola,NA,No
+2134,2845,NA,NA,Cholera,NA,No
+2135,2779,NA,NA,Anthrax,NA,Yes
+2136,2790,NA,NA,NA,NA,Yes
+2137,2858,NA,NA,Cholera,NA,Yes
+2138,2810,NA,NA,Cholera,NA,Yes
+2139,2766,NA,NA,Meningococcal disease,NA,No
+2140,2789,NA,NA,Meningococcal disease,NA,No
+2141,2856,NA,NA,Measles,NA,No
+2142,2782,NA,NA,Anthrax,NA,Yes
+2143,2783,NA,NA,Anthrax,NA,Yes
+2144,2761,NA,NA,Ebola,NA,Yes
+2145,2852,NA,NA,Cholera,NA,Yes
+2146,2804,NA,NA,Yellow fever,NA,No
+2147,2791,NA,NA,Anthrax,NA,No
+2148,2794,NA,NA,Yellow fever,NA,No
+2149,2825,NA,NA,Yellow fever,NA,No
+2150,2828,NA,NA,Acute neurological syndrome,NA,Yes
+2151,2796,NA,NA,Yellow fever,NA,Yes
+2152,2787,NA,NA,Anthrax,NA,Yes
+2153,2793,NA,NA,Cholera,NA,Yes
+2154,2807,NA,NA,Meningococcal disease,NA,No
+2155,2814,NA,NA,Legionellosis,NA,Yes
+2156,2784,NA,NA,Anthrax,NA,Yes
+2157,2841,NA,NA,Plague,NA,No
+2158,2777,NA,NA,Anthrax,NA,Yes
+2159,2864,NA,NA,Viral haemorrhagic fever,NA,No
+2160,2861,NA,NA,Cholera,NA,Yes
+2161,2785,NA,NA,Anthrax,NA,Yes
+2162,2765,NA,NA,Ebola,NA,Yes
+2163,2776,NA,NA,Anthrax,NA,Yes
+2164,2848,NA,NA,Cholera,NA,Yes
+2165,2792,NA,NA,Yellow fever,NA,Yes
+2166,2802,NA,NA,Legionellosis,NA,No
+2167,2799,NA,NA,Yellow fever,NA,Yes
+2168,2801,NA,NA,Yellow fever,NA,Yes
+2169,2764,NA,NA,Ebola,NA,Yes
+2170,2774,NA,NA,Anthrax,NA,Yes
+2171,2809,NA,NA,Cholera,NA,No
+2172,2762,NA,NA,Ebola,NA,Yes
+2173,2835,NA,NA,Meningitis,NA,Yes
+2174,2813,NA,NA,Cholera,NA,No
+2175,2808,NA,NA,Cholera,NA,Yes
+2176,2817,NA,NA,Crimean-Congo haemorrhagic fever,NA,Yes
+2177,2842,NA,NA,Plague,NA,No
+2178,2819,NA,NA,NA,NA,Yes
+2179,2854,NA,NA,Cholera,NA,Yes
+2180,2865,NA,NA,Ebola,NA,Yes
+2181,2827,NA,NA,Yellow fever,NA,No
+2182,2786,NA,NA,Anthrax,NA,Yes
+2183,2757,NA,NA,Ebola,NA,Yes
+2184,2780,NA,NA,Anthrax,NA,Yes
+2185,2772,NA,NA,Yellow fever,NA,No
+2186,2769,NA,Nigeria,Cholera,NA,No
+2187,2829,NA,NA,Acute neurological syndrome,NA,No
+2188,2806,NA,NA,Cholera,NA,Yes
+2189,2767,NA,NA,Viral haemorrhagic fever,NA,No
+2190,2863,NA,NA,Cholera,NA,Yes
+2191,2816,NA,NA,Meningococcal disease,NA,Yes
+2192,2837,NA,NA,Meningococcal disease,NA,Yes
+2193,2839,NA,NA,Cholera,NA,Yes
+2194,2820,NA,NA,Crimean-Congo haemorrhagic fever,NA,Yes
+2195,2862,NA,NA,Ebola,NA,Yes
+2196,2768,NA,Nigeria,Cholera,NA,Yes
+2197,2846,NA,NA,Meningitis,NA,Yes
+2198,2758,NA,NA,Ebola,NA,Yes
+2199,2833,NA,NA,Meningococcal disease,NA,Yes
+2200,2811,NA,NA,Cholera,NA,No
+2201,2843,NA,NA,Yellow fever,NA,Yes
+2202,2853,NA,NA,Meningitis,NA,No
+2203,2760,NA,NA,Ebola,NA,Yes
+2204,2844,NA,NA,Meningitis,NA,Yes
+2205,2781,NA,NA,Meningococcal disease,NA,Yes
+2206,2759,NA,NA,Meningococcal disease,NA,No
+2207,2826,NA,NA,Acute neurological syndrome,NA,Yes
+2208,2788,NA,NA,Yellow fever,NA,Yes
+2209,2830,NA,NA,Meningococcal disease,NA,Yes
+2210,2797,NA,NA,Cholera,NA,No
+2211,2822,NA,NA,Meningococcal disease,NA,Yes
+2212,2800,NA,NA,Yellow fever,NA,Yes
+2213,2832,NA,NA,Influenza,NA,No
+2214,2756,NA,NA,Ebola,NA,Yes
+2215,2795,NA,NA,Yellow fever,NA,Yes
+2216,2805,NA,NA,Yellow fever,NA,No
+2217,2798,NA,NA,Meningococcal disease,NA,Yes
+2218,2754,NA,NA,Ebola,NA,Yes
+2219,1694,NA,NA,Avian,NA,Yes
+2220,1748,NA,NA,Avian,NA,Yes
+2221,1726,NA,NA,NA,NA,No
+2222,1744,NA,NA,Avian,NA,Yes
+2223,1789,NA,NA,Yellow fever,NA,Yes
+2224,1774,NA,NA,Avian,NA,No
+2225,1775,NA,NA,Avian,NA,Yes
+2226,1795,NA,NA,Avian,NA,Yes
+2227,1732,NA,NA,Marburg haemorrhagic fever,NA,Yes
+2228,1721,NA,NA,Cholera,NA,Yes
+2229,1685,NA,NA,Avian,NA,Yes
+2230,1754,NA,NA,Rift Valley fever,NA,No
+2231,1715,NA,NA,Ebola,NA,Yes
+2232,1786,NA,Nigeria,Avian,NA,No
+2233,1686,NA,NA,Avian,NA,No
+2234,1709,NA,NA,Avian,NA,Yes
+2235,1767,NA,NA,Avian,NA,Yes
+2236,1779,NA,NA,Yellow fever,NA,Yes
+2237,1701,NA,NA,Rift Valley fever,NA,Yes
+2238,1763,NA,NA,Rift Valley fever,NA,No
+2239,1687,NA,NA,Avian,NA,Yes
+2240,1735,NA,NA,Marburg haemorrhagic fever,NA,No
+2241,1734,NA,NA,Polio,NA,Yes
+2242,1794,NA,NA,Rift Valley fever,NA,Yes
+2243,1739,NA,NA,Avian,NA,No
+2244,1749,NA,NA,NA,NA,No
+2245,1765,NA,NA,Meningococcal disease,NA,Yes
+2246,1761,NA,NA,Avian,NA,Yes
+2247,1710,NA,NA,Avian,NA,Yes
+2248,1719,NA,NA,NA,NA,No
+2249,1796,NA,NA,Avian,NA,Yes
+2250,1798,NA,NA,Avian,NA,Yes
+2251,1703,NA,NA,NA,NA,No
+2252,1727,NA,NA,Avian,NA,Yes
+2253,1712,NA,NA,Avian,NA,Yes
+2254,1723,NA,NA,Ebola,NA,No
+2255,1720,NA,NA,Ebola,NA,Yes
+2256,1781,NA,NA,Polio,NA,No
+2257,1757,NA,NA,Avian,NA,No
+2258,1750,NA,NA,Avian,NA,Yes
+2259,1776,NA,NA,Avian,NA,Yes
+2260,1708,NA,NA,Rift Valley fever,NA,No
+2261,1782,NA,NA,Meningococcal disease,NA,No
+2262,1741,NA,NA,Avian,NA,Yes
+2263,1702,NA,NA,NA,NA,Yes
+2264,1733,NA,NA,NA,NA,No
+2265,1695,NA,NA,Avian,NA,Yes
+2266,1759,NA,NA,Avian,NA,Yes
+2267,1800,NA,NA,Avian,NA,No
+2268,1717,NA,NA,Ebola,NA,Yes
+2269,1769,NA,NA,Avian,NA,Yes
+2270,1756,NA,NA,Avian,NA,Yes
+2271,1689,NA,NA,Avian,NA,No
+2272,1745,NA,NA,Avian,NA,Yes
+2273,1740,NA,NA,Avian,NA,Yes
+2274,1772,NA,NA,Avian,NA,No
+2275,1784,NA,Nigeria,Avian,NA,Yes
+2276,1746,NA,NA,Avian,NA,Yes
+2277,1771,NA,NA,Avian,NA,Yes
+2278,1704,NA,NA,Rift Valley fever,NA,Yes
+2279,1793,NA,NA,Avian,NA,Yes
+2280,1690,NA,NA,Rift Valley fever,NA,Yes
+2281,1700,NA,NA,NA,NA,Yes
+2282,1714,NA,NA,Cholera,NA,Yes
+2283,1722,NA,NA,Ebola,NA,Yes
+2284,1758,NA,NA,Avian,NA,Yes
+2285,1737,NA,NA,Avian,NA,Yes
+2286,1699,NA,NA,Ebola,NA,No
+2287,1729,NA,NA,Polio,NA,Yes
+2288,1696,NA,NA,Avian,NA,Yes
+2289,1797,NA,NA,Yellow fever,NA,Yes
+2290,1764,NA,NA,Avian,NA,Yes
+2291,1751,NA,NA,Avian,NA,No
+2292,1770,NA,NA,Avian,NA,Yes
+2293,1718,NA,NA,Cholera,NA,Yes
+2294,1724,NA,NA,Cholera,NA,No
+2295,1705,NA,NA,Avian,NA,Yes
+2296,1716,NA,NA,Avian,NA,Yes
+2297,1785,NA,NA,Meningococcal disease,NA,No
+2298,1787,NA,NA,Rift Valley fever,NA,Yes
+2299,1736,NA,NA,Polio,NA,No
+2300,1706,NA,NA,Rift Valley fever,NA,Yes
+2301,1725,NA,NA,Avian,NA,Yes
+2302,1730,NA,NA,Avian,NA,Yes
+2303,1783,NA,NA,Avian,NA,Yes
+2304,1707,NA,NA,Avian,NA,Yes
+2305,1778,NA,NA,Meningococcal disease,NA,No
+2306,1766,NA,NA,Avian,NA,Yes
+2307,1773,NA,NA,Avian,NA,Yes
+2308,1692,NA,NA,Avian,NA,No
+2309,1752,NA,NA,Avian,NA,Yes
+2310,1780,NA,NA,Malaria,NA,No
+2311,1731,NA,NA,Avian,NA,Yes
+2312,1728,NA,NA,Avian,NA,Yes
+2313,1755,NA,NA,Meningococcal disease,NA,Yes
+2314,1742,NA,NA,Avian,NA,Yes
+2315,1791,NA,NA,Avian,NA,Yes
+2316,1693,NA,NA,Avian,NA,No
+2317,1790,NA,NA,Meningococcal disease,NA,No
+2318,1743,NA,NA,Avian,NA,Yes
+2319,1777,NA,NA,Avian,NA,Yes
+2320,1738,NA,NA,Avian,NA,Yes
+2321,1697,NA,NA,Ebola,NA,Yes
+2322,1788,NA,NA,Avian,NA,Yes
+2323,1760,NA,NA,Avian,NA,Yes
+2324,1768,NA,NA,Meningococcal disease,NA,Yes
+2325,1762,NA,NA,Avian,NA,Yes
+2326,1753,NA,NA,Avian,NA,Yes
+2327,1792,NA,NA,Avian,NA,Yes
+2328,1799,NA,NA,Avian,NA,No
+2329,1711,NA,NA,Avian,NA,Yes
+2330,1713,NA,NA,Avian,NA,Yes
+2331,1698,NA,NA,Avian,NA,Yes
+2332,1691,NA,NA,Avian,NA,Yes
+2333,1747,NA,NA,Avian,NA,Yes
+2334,1688,NA,NA,Avian,NA,Yes
+2335,422,NA,NA,Zika virus infection,NA,No
+2336,415,NA,NA,Zika virus infection,NA,No
+2337,387,NA,NA,Avian,NA,No
+2338,437,NA,NA,Avian,NA,No
+2339,426,NA,NA,MERS-CoV,NA,No
+2340,409,NA,NA,Avian,NA,No
+2341,378,NA,NA,Microcephaly,NA,No
+2342,435,NA,NA,Zika virus infection,NA,No
+2343,402,NA,NA,Dengue,NA,No
+2344,413,NA,NA,Lassa fever,NA,No
+2345,356,NA,NA,MERS-CoV,NA,No
+2346,363,NA,NA,Lassa fever,NA,No
+2347,375,NA,NA,Yellow fever,NA,No
+2348,315,NA,NA,MERS-CoV,NA,No
+2349,346,NA,NA,Yellow fever,NA,No
+2350,340,NA,NA,MERS-CoV,NA,No
+2351,370,NA,NA,Elizabethkingia,NA,No
+2352,384,NA,NA,Zika virus infection,NA,No
+2353,429,NA,NA,MERS-CoV,NA,No
+2354,376,NA,NA,Zika virus infection,NA,No
+2355,405,NA,NA,Zika virus infection,NA,No
+2356,400,NA,NA,MERS-CoV,NA,No
+2357,406,NA,NA,Zika virus infection,NA,No
+2358,339,NA,NA,Avian,NA,No
+2359,331,NA,NA,MERS-CoV,NA,No
+2360,421,NA,NA,Zika virus infection,NA,No
+2361,336,NA,NA,Avian,NA,No
+2362,321,NA,NA,Dengue,NA,No
+2363,383,NA,NA,Yellow fever,NA,No
+2364,436,NA,NA,Zika virus infection,NA,No
+2365,367,NA,NA,Yellow fever,NA,No
+2366,401,NA,NA,MERS-CoV,NA,No
+2367,310,NA,NA,Polio,NA,No
+2368,432,NA,NA,Zika virus infection,NA,No
+2369,362,NA,NA,Salmonellosis,NA,No
+2370,377,NA,NA,Yellow fever,NA,No
+2371,407,NA,NA,MERS-CoV,NA,No
+2372,403,NA,NA,Guillain-BarrÃ© syndrome ,NA,No
+2373,318,NA,NA,MERS-CoV,NA,No
+2374,368,NA,NA,Zika virus infection,NA,No
+2375,382,NA,NA,Microcephaly,NA,No
+2376,325,NA,NA,Monkeypox,NA,No
+2377,343,NA,NA,MERS-CoV,NA,No
+2378,320,NA,NA,Rift Valley fever,NA,No
+2379,316,NA,NA,MERS-CoV,NA,No
+2380,374,NA,NA,MERS-CoV,NA,No
+2381,424,NA,NA,Zika virus infection,NA,No
+2382,333,NA,NA,Chikungunya,NA,No
+2383,342,NA,NA,MERS-CoV,NA,No
+2384,345,NA,NA,Chikungunya,NA,No
+2385,355,NA,NA,MERS-CoV,NA,No
+2386,427,NA,Nigeria,Lassa fever,NA,No
+2387,329,NA,NA,MERS-CoV,NA,No
+2388,416,NA,NA,Microcephaly,NA,No
+2389,381,NA,NA,Yellow fever,NA,No
+2390,434,NA,NA,Zika virus infection,NA,No
+2391,420,NA,NA,Guillain-BarrÃ© syndrome ,NA,No
+2392,353,NA,NA,Lassa fever,NA,No
+2393,360,NA,NA,Yellow fever,NA,No
+2394,338,NA,NA,MERS-CoV,NA,No
+2395,398,NA,NA,Chikungunya,NA,No
+2396,440,NA,NA,Zika virus infection,NA,No
+2397,388,NA,NA,Avian,NA,No
+2398,352,NA,NA,Haemorrhagic fever syndrome,NA,No
+2399,332,NA,NA,Avian,NA,No
+2400,385,NA,NA,Microcephaly,NA,No
+2401,351,NA,Nigeria,Lassa fever,NA,No
+2402,428,NA,NA,Zika virus infection,NA,No
+2403,347,NA,NA,Lassa fever,NA,No
+2404,361,NA,NA,Yellow fever,NA,No
+2405,414,NA,NA,Yellow fever,NA,No
+2406,334,NA,NA,Rift Valley fever,NA,No
+2407,399,NA,NA,MERS-CoV,NA,No
+2408,348,NA,NA,Avian,NA,No
+2409,319,NA,NA,MERS-CoV,NA,No
+2410,390,NA,NA,Lassa fever,NA,No
+2411,386,NA,NA,Guillain-BarrÃ© syndrome ,NA,No
+2412,379,NA,NA,Lassa fever,NA,No
+2413,411,NA,NA,Dengue,NA,No
+2414,328,NA,NA,MERS-CoV,NA,No
+2415,380,NA,NA,Yellow fever,NA,No
+2416,369,NA,NA,MERS-CoV,NA,No
+2417,441,NA,NA,Zika virus infection,NA,No
+2418,371,NA,NA,Zika virus infection,NA,No
+2419,395,NA,NA,Guillain-BarrÃ© syndrome ,NA,No
+2420,358,NA,NA,Avian,NA,No
+2421,365,NA,NA,MERS-CoV,NA,No
+2422,425,NA,NA,Polio,NA,No
+2423,373,NA,NA,Zika virus infection,NA,No
+2424,313,NA,NA,Avian,NA,No
+2425,344,NA,NA,MERS-CoV,NA,No
+2426,392,NA,NA,MERS-CoV,NA,No
+2427,372,NA,NA,Zika virus infection,NA,No
+2428,317,NA,NA,Avian,NA,No
+2429,311,NA,NA,Avian,NA,No
+2430,341,NA,NA,MERS-CoV,NA,No
+2431,404,NA,NA,Zika virus infection,NA,No
+2432,389,NA,NA,Avian,NA,No
+2433,349,NA,NA,Oropouche virus disease,NA,No
+2434,444,NA,NA,Avian,NA,No
+2435,408,NA,NA,Zika virus infection,NA,No
+2436,442,NA,NA,MERS-CoV,NA,No
+2437,396,NA,NA,MERS-CoV,NA,No
+2438,418,NA,NA,Avian,NA,No
+2439,327,NA,NA,Rift Valley fever,NA,No
+2440,423,NA,NA,MERS-CoV,NA,No
+2441,439,NA,NA,Microcephaly,NA,No
+2442,433,NA,NA,Guillain-BarrÃ© syndrome ,NA,No
+2443,366,NA,NA,MERS-CoV,NA,No
+2444,438,NA,NA,Avian,NA,No
+2445,364,NA,NA,Avian,NA,No
+2446,335,NA,NA,MERS-CoV,NA,No
+2447,324,NA,NA,MERS-CoV,NA,No
+2448,417,NA,NA,Guillain-BarrÃ© syndrome ,NA,No
+2449,394,NA,NA,MERS-CoV,NA,No
+2450,410,NA,NA,Polio,NA,No
+2451,393,NA,NA,Yellow fever,NA,No
+2452,412,NA,NA,Zika virus infection,NA,No
+2453,312,NA,NA,Avian,NA,No
+2454,330,NA,NA,MERS-CoV,NA,No
+2455,350,NA,NA,Yellow fever,NA,No
+2456,357,NA,NA,Avian,NA,No
+2457,337,NA,NA,Enterohaemorrhagic ,NA,No
+2458,397,NA,NA,MERS-CoV,NA,No
+2459,443,NA,NA,MERS-CoV,NA,No
+2460,419,NA,NA,Guillain-BarrÃ© syndrome ,NA,No
+2461,430,NA,NA,MERS-CoV,NA,No
+2462,322,NA,NA,Avian,NA,No
+2463,391,NA,NA,Lassa fever,NA,No
+2464,359,NA,NA,Avian,NA,No
+2465,326,NA,Nigeria,Polio,NA,No
+2466,354,NA,NA,Avian,NA,No
+2467,314,NA,NA,MERS-CoV,NA,No
+2468,323,NA,NA,MERS-CoV,NA,No
+2469,431,NA,NA,Avian,NA,No
+2470,1085,NA,NA,NA,NA,No
+2471,1146,NA,NA,Ebola,NA,No
+2472,1081,NA,NA,Meningitis,NA,Yes
+2473,1049,NA,NA,Dengue,NA,Yes
+2474,1084,NA,NA,Cholera,NA,No
+2475,1143,NA,NA,Yellow fever,NA,No
+2476,1113,NA,NA,Ebola,NA,Yes
+2477,1127,NA,Nigeria,Cholera,NA,Yes
+2478,1069,NA,NA,Yellow fever,NA,No
+2479,1075,NA,NA,Meningitis,NA,No
+2480,1086,NA,NA,Meningitis,NA,No
+2481,1064,NA,NA,Cholera,NA,No
+2482,1039,NA,NA,Ebola,NA,Yes
+2483,1139,NA,Nigeria,Meningitis,NA,No
+2484,1053,NA,NA,Cholera,NA,No
+2485,1126,NA,Nigeria,Meningitis,NA,Yes
+2486,1046,NA,NA,NA,NA,No
+2487,1076,NA,NA,Meningitis,NA,No
+2488,1055,NA,NA,Dengue,NA,No
+2489,1082,NA,NA,Cholera,NA,Yes
+2490,1115,NA,NA,Buffalopox,NA,No
+2491,1054,NA,NA,Ebola,NA,Yes
+2492,1122,NA,Nigeria,Cholera,NA,Yes
+2493,1079,NA,NA,Meningitis,NA,Yes
+2494,1080,NA,NA,Cholera,NA,No
+2495,1057,NA,NA,Yellow fever,NA,Yes
+2496,1088,NA,NA,Typhoid fever,NA,Yes
+2497,1105,NA,NA,NA,NA,Yes
+2498,1095,NA,NA,Cholera,NA,Yes
+2499,1099,NA,NA,Cholera,NA,No
+2500,1097,NA,NA,Dengue,NA,No
+2501,1123,NA,NA,Meningitis,NA,No
+2502,1135,NA,NA,Cholera,NA,No
+2503,1044,NA,NA,Dengue,NA,Yes
+2504,1134,NA,NA,Ebola,NA,Yes
+2505,1043,NA,NA,NA,NA,No
+2506,1093,NA,NA,Enterohaemorrhagic ,NA,No
+2507,1114,NA,NA,Ebola,NA,No
+2508,1048,NA,NA,Ebola,NA,Yes
+2509,1090,NA,NA,Typhoid fever,NA,No
+2510,1070,NA,NA,Meningitis,NA,Yes
+2511,1116,NA,NA,NA,NA,Yes
+2512,1067,NA,NA,Ebola,NA,No
+2513,1061,NA,NA,Ebola,NA,Yes
+2514,1072,NA,NA,Cholera,NA,No
+2515,1137,NA,NA,Meningitis,NA,No
+2516,1119,NA,NA,Meningitis,NA,Yes
+2517,1142,NA,NA,Haemorrhagic fever with renal syndrome,NA,No
+2518,1109,NA,NA,Lassa fever,NA,No
+2519,1040,NA,NA,Yellow fever,NA,Yes
+2520,1051,NA,NA,Ebola,NA,No
+2521,1037,NA,NA,Cholera,NA,No
+2522,1129,NA,NA,Cholera,NA,Yes
+2523,1059,NA,NA,Yellow fever,NA,No
+2524,1078,NA,NA,Cholera,NA,Yes
+2525,1035,NA,NA,Ebola,NA,Yes
+2526,1063,NA,NA,Dengue,NA,No
+2527,1107,NA,NA,Lassa fever,NA,No
+2528,1066,NA,NA,Ebola,NA,Yes
+2529,1047,NA,NA,Ebola,NA,Yes
+2530,1147,NA,NA,Meningitis,NA,No
+2531,1131,NA,Nigeria,Cholera,NA,Yes
+2532,1106,NA,NA,NA,NA,No
+2533,1108,NA,NA,Cholera,NA,No
+2534,1062,NA,NA,Ebola,NA,Yes
+2535,1128,NA,Nigeria,Meningitis,NA,Yes
+2536,1045,NA,NA,Ebola,NA,Yes
+2537,1092,NA,NA,Meningitis,NA,No
+2538,1103,NA,NA,Cholera,NA,No
+2539,1130,NA,Nigeria,Meningitis,NA,No
+2540,1094,NA,NA,Diphtheria,NA,No
+2541,1124,NA,NA,Cholera,NA,No
+2542,1058,NA,NA,Dengue,NA,Yes
+2543,1117,NA,NA,Cholera,NA,No
+2544,1118,NA,NA,NA,NA,No
+2545,1050,NA,NA,Ebola,NA,Yes
+2546,1132,NA,Nigeria,Cholera,NA,No
+2547,1101,NA,NA,Lassa fever,NA,Yes
+2548,1052,NA,NA,Dengue,NA,Yes
+2549,1056,NA,NA,Crimean-Congo haemorrhagic fever,NA,No
+2550,1149,NA,NA,Cholera,NA,No
+2551,1074,NA,NA,Meningitis,NA,Yes
+2552,1110,NA,NA,Meningitis,NA,No
+2553,1065,NA,NA,Meningitis,NA,No
+2554,1145,NA,NA,Dengue,NA,No
+2555,1089,NA,NA,Encephalitis,NA,No
+2556,1091,NA,NA,Lassa fever,NA,Yes
+2557,1098,NA,NA,Meningitis,NA,No
+2558,1112,NA,NA,Cholera,NA,No
+2559,1141,NA,NA,Cholera,NA,No
+2560,1083,NA,NA,Dengue,NA,No
+2561,1077,NA,NA,Enterohaemorrhagic ,NA,Yes
+2562,1111,NA,NA,Ebola,NA,Yes
+2563,1121,NA,NA,Meningitis,NA,Yes
+2564,1104,NA,NA,Cholera,NA,No
+2565,1138,NA,NA,Ebola,NA,No
+2566,1041,NA,NA,Cholera,NA,No
+2567,1036,NA,NA,Ebola,NA,Yes
+2568,1087,NA,NA,Malaria,NA,No
+2569,1096,NA,Nigeria,Cholera,NA,Yes
+2570,1100,NA,NA,Cholera,NA,Yes
+2571,1120,NA,NA,Creutzfeldt-Jakob disease,NA,No
+2572,1125,NA,NA,Meningitis,NA,No
+2573,1144,NA,NA,Cholera,NA,Yes
+2574,1140,NA,NA,Cholera,NA,No
+2575,1068,NA,NA,Encephalitis,NA,No
+2576,1133,NA,Nigeria,Meningitis,NA,No
+2577,1136,NA,NA,Ebola,NA,Yes
+2578,1073,NA,NA,Meningitis,NA,Yes
+2579,1071,NA,NA,Polio,NA,No
+2580,1148,NA,NA,Typhoid fever,NA,No
+2581,1038,NA,NA,NA,NA,No
+2582,1042,NA,NA,Yellow fever,NA,No
+2583,1102,NA,NA,Dengue,NA,No
+2584,1060,NA,NA,Dengue,NA,Yes
+2585,634,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+2586,603,NA,NA,Cholera,NA,No
+2587,635,NA,NA,NA,NA,No
+2588,636,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+2589,654,NA,NA,Meningococcal disease,NA,No
+2590,640,NA,NA,Nipah virus,NA,Yes
+2591,632,NA,NA,Viral haemorrhagic fever,NA,Yes
+2592,600,NA,NA,Encephalitis,NA,No
+2593,670,NA,NA,Cholera,NA,No
+2594,599,NA,NA,Cholera,NA,No
+2595,605,NA,NA,Polio,NA,No
+2596,638,NA,NA,Polio,NA,No
+2597,639,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+2598,651,NA,NA,Encephalitis,NA,No
+2599,657,NA,NA,Yellow fever,NA,Yes
+2600,617,NA,NA,Cholera,NA,No
+2601,667,NA,NA,Rift Valley fever,NA,No
+2602,631,NA,NA,NA,NA,Yes
+2603,668,NA,NA,Cholera,NA,No
+2604,595,NA,NA,Meningitis,NA,No
+2605,672,NA,NA,Influenza,NA,No
+2606,623,NA,NA,Viral haemorrhagic fever,NA,Yes
+2607,663,NA,NA,Meningitis,NA,No
+2608,585,NA,NA,Cholera,NA,No
+2609,671,NA,NA,Meningitis,NA,No
+2610,664,NA,NA,NA,NA,No
+2611,658,NA,NA,Yellow fever,NA,No
+2612,641,NA,NA,Cholera,NA,No
+2613,613,NA,NA,Malaria,NA,No
+2614,647,NA,NA,Influenza,NA,Yes
+2615,625,NA,NA,Meningococcal disease,NA,Yes
+2616,618,NA,NA,Viral haemorrhagic fever,NA,Yes
+2617,620,NA,NA,Viral haemorrhagic fever,NA,Yes
+2618,660,NA,NA,Meningococcal disease,NA,Yes
+2619,627,NA,Nigeria,Cholera,NA,No
+2620,611,NA,NA,Crimean-Congo haemorrhagic fever,NA,Yes
+2621,615,NA,NA,Malaria,NA,No
+2622,608,NA,NA,NA,NA,No
+2623,665,NA,NA,Cholera,NA,No
+2624,649,NA,NA,NA,NA,No
+2625,648,NA,NA,Influenza,NA,No
+2626,661,NA,NA,NA,NA,Yes
+2627,593,NA,NA,Cholera,NA,No
+2628,655,NA,NA,Meningococcal disease,NA,No
+2629,646,NA,NA,Influenza,NA,No
+2630,598,NA,NA,Encephalitis,NA,Yes
+2631,586,NA,NA,NA,NA,No
+2632,624,NA,NA,Viral haemorrhagic fever,NA,No
+2633,656,NA,NA,Legionellosis,NA,No
+2634,666,NA,NA,Yellow fever,NA,No
+2635,610,NA,NA,Plague,NA,No
+2636,619,NA,NA,Cholera,NA,No
+2637,629,NA,NA,Viral haemorrhagic fever,NA,Yes
+2638,607,NA,NA,Cholera,NA,No
+2639,621,NA,NA,Yellow fever,NA,No
+2640,628,NA,NA,Plague,NA,No
+2641,612,NA,NA,Cholera,NA,No
+2642,653,NA,NA,Yellow fever,NA,Yes
+2643,633,NA,NA,Cholera,NA,Yes
+2644,643,NA,NA,Influenza,NA,Yes
+2645,616,NA,NA,Cholera,NA,No
+2646,606,NA,NA,Cholera,NA,No
+2647,630,NA,NA,NA,NA,No
+2648,597,NA,NA,Polio,NA,No
+2649,591,NA,NA,Cholera,NA,No
+2650,587,NA,NA,Cholera,NA,No
+2651,642,NA,NA,Meningococcal disease,NA,Yes
+2652,614,NA,NA,NA,NA,No
+2653,645,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+2654,594,NA,NA,Meningococcal disease,NA,No
+2655,622,NA,NA,Viral haemorrhagic fever,NA,Yes
+2656,644,NA,NA,Cholera,NA,No
+2657,626,NA,NA,Viral haemorrhagic fever,NA,Yes
+2658,589,NA,NA,Yellow fever,NA,No
+2659,592,NA,NA,NA,NA,No
+2660,588,NA,NA,Cholera,NA,No
+2661,650,NA,NA,Encephalitis,NA,No
+2662,602,NA,NA,Cholera,NA,Yes
+2663,596,NA,NA,Encephalitis,NA,Yes
+2664,590,NA,NA,Cholera,NA,No
+2665,652,NA,NA,Meningococcal disease,NA,Yes
+2666,669,NA,NA,Meningitis,NA,Yes
+2667,662,NA,NA,Cholera,NA,No
+2668,609,NA,NA,Cholera,NA,No
+2669,604,NA,NA,NA,NA,No
+2670,659,NA,NA,Cholera,NA,No
+2671,637,NA,NA,Meningococcal disease,NA,Yes
+2672,601,NA,NA,Cholera,NA,Yes
+2673,800,NA,NA,Cholera,NA,Yes
+2674,906,NA,NA,Ebola,NA,Yes
+2675,909,NA,NA,Acute respiratory syndrome,NA,Yes
+2676,886,NA,NA,Avian,NA,No
+2677,907,NA,NA,Acute respiratory syndrome,NA,Yes
+2678,921,NA,NA,Acute respiratory syndrome,NA,Yes
+2679,842,NA,NA,NA,NA,Yes
+2680,769,NA,NA,Influenza,NA,Yes
+2681,827,NA,NA,Typhoid fever,NA,No
+2682,881,NA,NA,Acute respiratory syndrome,NA,Yes
+2683,771,NA,NA,Acute respiratory syndrome,NA,No
+2684,957,NA,NA,Cholera,NA,No
+2685,832,NA,NA,Cholera,NA,No
+2686,848,NA,NA,NA,NA,Yes
+2687,901,NA,NA,Acute respiratory syndrome,NA,Yes
+2688,784,NA,NA,Dengue,NA,Yes
+2689,942,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+2690,939,NA,NA,Acute respiratory syndrome,NA,Yes
+2691,877,NA,NA,Acute respiratory syndrome,NA,Yes
+2692,883,NA,NA,Acute respiratory syndrome,NA,Yes
+2693,823,NA,NA,NA,NA,Yes
+2694,846,NA,NA,SARS,NA,Yes
+2695,787,NA,NA,NA,NA,No
+2696,825,NA,NA,Cholera,NA,Yes
+2697,944,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+2698,885,NA,NA,Acute respiratory syndrome,NA,Yes
+2699,956,NA,NA,Pertussis,NA,No
+2700,865,NA,NA,Cholera,NA,Yes
+2701,828,NA,NA,NA,NA,Yes
+2702,813,NA,NA,Plague,NA,Yes
+2703,870,NA,NA,Cholera,NA,No
+2704,887,NA,NA,Acute respiratory syndrome,NA,Yes
+2705,916,NA,NA,Acute respiratory syndrome,NA,Yes
+2706,936,NA,NA,Meningococcal disease,NA,Yes
+2707,928,NA,NA,Ebola,NA,Yes
+2708,869,NA,NA,Cholera,NA,No
+2709,857,NA,NA,Acute respiratory syndrome,NA,Yes
+2710,779,NA,NA,Cholera,NA,No
+2711,876,NA,NA,Acute respiratory syndrome,NA,Yes
+2712,951,NA,NA,Meningococcal disease,NA,Yes
+2713,927,NA,NA,Acute respiratory syndrome,NA,Yes
+2714,929,NA,NA,Meningococcal disease,NA,No
+2715,875,NA,NA,Acute respiratory syndrome,NA,Yes
+2716,772,NA,NA,Ebola,NA,Yes
+2717,917,NA,NA,Acute respiratory syndrome,NA,Yes
+2718,844,NA,NA,NA,NA,Yes
+2719,770,NA,NA,Cholera,NA,Yes
+2720,777,NA,NA,Ebola,NA,Yes
+2721,785,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+2722,830,NA,NA,SARS,NA,Yes
+2723,817,NA,NA,NA,NA,Yes
+2724,912,NA,NA,Acute respiratory syndrome,NA,Yes
+2725,925,NA,NA,Acute respiratory syndrome,NA,Yes
+2726,931,NA,NA,Crimean-Congo haemorrhagic fever,NA,No
+2727,793,NA,NA,Cholera,NA,Yes
+2728,892,NA,NA,Acute respiratory syndrome,NA,Yes
+2729,868,NA,NA,Acute respiratory syndrome,NA,Yes
+2730,835,NA,NA,Yellow fever,NA,Yes
+2731,780,NA,NA,Influenza,NA,No
+2732,903,NA,NA,Acute respiratory syndrome,NA,Yes
+2733,864,NA,NA,Acute respiratory syndrome,NA,Yes
+2734,804,NA,NA,Legionellosis,NA,No
+2735,910,NA,NA,Acute respiratory syndrome,NA,Yes
+2736,941,NA,NA,Ebola,NA,Yes
+2737,850,NA,NA,SARS,NA,Yes
+2738,809,NA,NA,SARS,NA,Yes
+2739,935,NA,NA,Influenza,NA,Yes
+2740,795,NA,NA,Acute respiratory syndrome,NA,Yes
+2741,940,NA,NA,Influenza,NA,No
+2742,904,NA,NA,Acute respiratory syndrome,NA,Yes
+2743,949,NA,NA,Acute haemorrhagic fever syndrome,NA,Yes
+2744,790,NA,NA,Yellow fever,NA,No
+2745,943,NA,NA,Acute respiratory syndrome,NA,Yes
+2746,866,NA,NA,Acute respiratory syndrome,NA,Yes
+2747,878,NA,NA,Meningococcal disease,NA,Yes
+2748,812,NA,NA,Cholera,NA,No
+2749,786,NA,NA,Shigellosis,NA,No
+2750,919,NA,NA,Ebola,NA,Yes
+2751,829,NA,NA,Cholera,NA,Yes
+2752,849,NA,NA,NA,NA,Yes
+2753,791,NA,NA,Polio,NA,No
+2754,952,NA,NA,Meningococcal disease,NA,No
+2755,899,NA,NA,Acute respiratory syndrome,NA,Yes
+2756,898,NA,NA,Acute respiratory syndrome,NA,Yes
+2757,905,NA,NA,Acute respiratory syndrome,NA,Yes
+2758,836,NA,NA,NA,NA,Yes
+2759,851,NA,NA,Cholera,NA,No
+2760,807,NA,NA,Cholera,NA,Yes
+2761,922,NA,NA,Acute respiratory syndrome,NA,Yes
+2762,945,NA,NA,Influenza,NA,No
+2763,893,NA,NA,Acute respiratory syndrome,NA,Yes
+2764,794,NA,NA,Acute respiratory syndrome,NA,Yes
+2765,826,NA,NA,NA,NA,Yes
+2766,782,NA,NA,Cholera,NA,No
+2767,937,NA,NA,Ebola,NA,Yes
+2768,873,NA,NA,Ebola,NA,Yes
+2769,938,NA,NA,Influenza,NA,Yes
+2770,911,NA,NA,Acute respiratory syndrome,NA,Yes
+2771,920,NA,NA,Crimean-Congo haemorrhagic fever,NA,Yes
+2772,822,NA,NA,NA,NA,Yes
+2773,933,NA,NA,Ebola,NA,Yes
+2774,801,NA,NA,Yellow fever,NA,No
+2775,955,NA,NA,Yellow fever,NA,No
+2776,811,NA,NA,SARS,NA,Yes
+2777,854,NA,NA,SARS,NA,Yes
+2778,856,NA,NA,Acute respiratory syndrome,NA,Yes
+2779,788,NA,NA,Dengue,NA,No
+2780,896,NA,NA,Ebola,NA,Yes
+2781,773,NA,NA,Influenza,NA,Yes
+2782,890,NA,NA,Acute respiratory syndrome,NA,Yes
+2783,797,NA,NA,Cholera,NA,Yes
+2784,819,NA,NA,NA,NA,Yes
+2785,880,NA,NA,Acute respiratory syndrome,NA,Yes
+2786,863,NA,NA,Cholera,NA,Yes
+2787,798,NA,NA,Diphtheria,NA,No
+2788,950,NA,NA,Acute haemorrhagic fever syndrome,NA,No
+2789,792,NA,NA,Yellow fever,NA,Yes
+2790,926,NA,NA,Acute respiratory syndrome,NA,Yes
+2791,953,NA,NA,Yellow fever,NA,No
+2792,871,NA,NA,Acute respiratory syndrome,NA,Yes
+2793,914,NA,NA,Acute respiratory syndrome,NA,Yes
+2794,837,NA,NA,NA,NA,Yes
+2795,816,NA,NA,SARS,NA,Yes
+2796,874,NA,NA,Acute respiratory syndrome,NA,Yes
+2797,872,NA,NA,Acute respiratory syndrome,NA,Yes
+2798,847,NA,NA,Yellow fever,NA,No
+2799,799,NA,NA,SARS,NA,No
+2800,930,NA,NA,Acute respiratory syndrome,NA,No
+2801,894,NA,NA,Acute respiratory syndrome,NA,Yes
+2802,805,NA,NA,Cholera,NA,Yes
+2803,855,NA,NA,Cholera,NA,No
+2804,947,NA,NA,Acute respiratory syndrome,NA,No
+2805,902,NA,NA,Acute respiratory syndrome,NA,Yes
+2806,889,NA,NA,Acute respiratory syndrome,NA,Yes
+2807,862,NA,NA,Acute respiratory syndrome,NA,Yes
+2808,900,NA,NA,Acute respiratory syndrome,NA,Yes
+2809,897,NA,NA,Acute respiratory syndrome,NA,Yes
+2810,954,NA,NA,Pertussis,NA,Yes
+2811,891,NA,NA,Acute respiratory syndrome,NA,Yes
+2812,932,NA,NA,Meningococcal disease,NA,Yes
+2813,841,NA,NA,NA,NA,Yes
+2814,820,NA,NA,NA,NA,Yes
+2815,845,NA,NA,SARS,NA,Yes
+2816,946,NA,NA,Acute respiratory syndrome,NA,Yes
+2817,948,NA,NA,Lassa fever,NA,No
+2818,808,NA,NA,Plague,NA,Yes
+2819,767,NA,NA,Acute respiratory syndrome,NA,No
+2820,768,NA,NA,Influenza,NA,Yes
+2821,774,NA,NA,Influenza,NA,No
+2822,821,NA,NA,Plague,NA,No
+2823,918,NA,NA,Acute respiratory syndrome,NA,Yes
+2824,924,NA,NA,Acute respiratory syndrome,NA,Yes
+2825,776,NA,NA,Cholera,NA,Yes
+2826,814,NA,NA,NA,NA,Yes
+2827,923,NA,NA,Acute respiratory syndrome,NA,Yes
+2828,834,NA,NA,NA,NA,Yes
+2829,783,NA,NA,Ebola,NA,Yes
+2830,908,NA,NA,Acute respiratory syndrome,NA,Yes
+2831,803,NA,NA,Legionellosis,NA,Yes
+2832,802,NA,NA,Cholera,NA,Yes
+2833,861,NA,NA,Acute respiratory syndrome,NA,Yes
+2834,838,NA,NA,NA,NA,Yes
+2835,882,NA,NA,Acute respiratory syndrome,NA,Yes
+2836,888,NA,NA,Acute respiratory syndrome,NA,Yes
+2837,913,NA,NA,Acute respiratory syndrome,NA,Yes
+2838,859,NA,NA,Acute respiratory syndrome,NA,Yes
+2839,858,NA,NA,Cholera,NA,No
+2840,860,NA,NA,Acute respiratory syndrome,NA,Yes
+2841,824,NA,NA,SARS,NA,Yes
+2842,818,NA,NA,SARS,NA,Yes
+2843,831,NA,NA,NA,NA,Yes
+2844,840,NA,NA,NA,NA,Yes
+2845,810,NA,NA,SARS,NA,Yes
+2846,843,NA,NA,SARS,NA,Yes
+2847,895,NA,NA,Acute respiratory syndrome,NA,Yes
+2848,815,NA,NA,NA,NA,Yes
+2849,884,NA,NA,Acute respiratory syndrome,NA,Yes
+2850,867,NA,NA,Acute respiratory syndrome,NA,Yes
+2851,879,NA,NA,Acute respiratory syndrome,NA,Yes
+2852,806,NA,NA,Influenza,NA,No
+2853,852,NA,NA,NA,NA,Yes
+2854,915,NA,NA,Acute respiratory syndrome,NA,Yes
+2855,766,NA,NA,Acute respiratory syndrome,NA,Yes
+2856,839,NA,NA,NA,NA,Yes
+2857,853,NA,NA,NA,NA,Yes
+2858,781,NA,NA,Ebola,NA,Yes
+2859,778,NA,NA,Ebola,NA,Yes
+2860,833,NA,NA,NA,NA,Yes
+2861,789,NA,NA,Polio,NA,No
+2862,796,NA,NA,Acute respiratory syndrome,NA,No
+2863,775,NA,NA,Influenza,NA,Yes
+2864,934,NA,NA,Ebola,NA,Yes
